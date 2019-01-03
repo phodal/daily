@@ -1,0 +1,21 @@
+* Professional Programmer
+
+> 专业程序员的养成之路。
+
+#+TODO: TODO(t) | DONE(d)
+#+TODO: REPORT(r) BUG(b) KNOWNCAUSE(k) | FIXED(f)
+#+TODO: | CANCELED(c)
+
+* TODO [#A] write a toc [0%]
+ - [ ] 范围 [0%]
+   - [ ] 搜索相关文章
+   - [ ] 找出共同元素
+   - [ ] 整理差异点
+ - [ ] 大纲
+   - [ ] 寻找工具
+
+** 5W1H
+
+*** WHY
+
+*** WHAT

@@ -6,7 +6,7 @@
 #+TODO: REPORT(r) BUG(b) KNOWNCAUSE(k) | FIXED(f)
 #+TODO: | CANCELED(c)
 
-* TODO [#A] write a toc [0%]
+***** TODO [#A] write a toc [0%]
  - [ ] 范围 [0%]
    - [ ] 搜索相关文章
    - [ ] 找出共同元素
@@ -23,3 +23,40 @@
 *** WHY
 
 *** WHAT
+
+*** HOW
+
+**** TODO [#A] Professional Programmer Collection 1 [0%]
+ - [ ] 为优秀的开源项目做贡献。用于提高代码质量
+ - [ ] 读取编程模式、基本的规则并在工作中使用它们
+ - [ ] 学习多种编程范式语言，并精通其中的一个
+ - [ ] 阅读专业程序员写的代码
+ - [ ] 和专业的人士一起工作
+
+**** TODO [#B] Professional Programmer Collection 2 [%]
+ - [ ] Figure out what you wish to achieve with programming in general
+ - [ ] Make yourself a solid plan for learning the skills you need
+ - [ ] Work towards your goal step by step
+ - [ ] Build practical projects of your own as you go (Practicing is everything!)
+ - [ ] Research job openings to find out what companies are looking for
+ - [ ] Create a stellar web developer portfolio where you solve those problems for employers you want to work for
+ - [ ] Nail your interview with thorough preparation and by practicing your problem-solving skills
+ - [ ] Land your first developer job!
+
+* Solving Skills
+
+** Owership
+
+推动问题解决
+
+Drive
+
+** Solving Skills
+
+* Languages
+
+
+* Continous Learning
+
+
+* Code Quality

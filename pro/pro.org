@@ -60,3 +60,6 @@ Drive
 
 
 * Code Quality
+
+
+* 初学者心态

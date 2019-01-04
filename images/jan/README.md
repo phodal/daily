@@ -9,3 +9,8 @@ Jan.2 (~30mins)
 Jan.3 (~30mins)
 
 ![Trompe](3.jpg)
+
+Jan.4 (~90mins)
+
+![Guide](4.jpg)
+

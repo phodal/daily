@@ -43,6 +43,15 @@
  - [ ] Nail your interview with thorough preparation and by practicing your problem-solving skills
  - [ ] Land your first developer job!
 
+**** TODO [#B] Professional Programmer Collection 3 [0%]
+ - [ ] Trustworthiness 可依赖
+ - [ ] Teamwork
+ - [ ] Leadership
+ - [ ] Communication
+ - [ ] Updating Skills
+ - [ ] Minimzing Risks
+ - [ ] Accountability 问责制
+
 * Solving Skills
 
 ** Owership
@@ -53,13 +62,16 @@ Drive
 
 ** Solving Skills
 
+
 * Languages
 
 
 * Continous Learning
 
-
 * Code Quality
 
-
 * 初学者心态
+
+* Tools
+
+提高效率的工具

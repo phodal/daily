@@ -18,3 +18,7 @@ Jan.5 (~30mins)
 
 ![Layer](5.jpg)
 
+Jan.6 (~20mins)
+
+![Ideas](6.jpg)
+

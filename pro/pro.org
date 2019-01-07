@@ -66,6 +66,11 @@ Drive
 * Languages
 
 
+学习多种范型的编程语言
+
+ - 脚本型 vs 编译型语言
+ - OO 与函数式
+
 * Continous Learning
 
 * Code Quality

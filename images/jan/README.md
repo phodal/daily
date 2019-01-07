@@ -22,3 +22,6 @@ Jan.6 (~20mins)
 
 ![Ideas](6.jpg)
 
+Jan.7 (~25mins)
+
+![Colors](7.jpg)

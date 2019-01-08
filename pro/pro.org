@@ -62,7 +62,6 @@ Drive
 
 ** Solving Skills
 
-
 * Languages
 
 
@@ -80,3 +79,7 @@ Drive
 * Tools
 
 提高效率的工具
+* 算法和数据结构
+
+> 面试的时候，你一定需要它。
+* 商业思维

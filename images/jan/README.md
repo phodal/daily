@@ -25,3 +25,7 @@ Jan.6 (~20mins)
 Jan.7 (~25mins)
 
 ![Colors](7.jpg)
+
+Jan.8 (~40mins)
+
+![Lines](8.jpg)

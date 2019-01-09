@@ -29,3 +29,7 @@ Jan.7 (~25mins)
 Jan.8 (~40mins)
 
 ![Lines](8.jpg)
+
+Jan.9 (~30mins)
+
+![Lights](9.jpg)

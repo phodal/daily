@@ -4,16 +4,15 @@
  */
 var lengthOfLongestSubstring = function (s) {
   var start = 0;
-  var end = 0;
   var longest = 0;
   var result = {};
   for (var i = 0; i < s.length; i++) {
-    if (result[s[end]] !== undefined) {
-      start = Math.max(result[s[end]] + 1, start)
+    if (result[s[i]] !== undefined) {
+      start = Math.max(result[s[i]] + 1, start)
     }
 
-    longest = Math.max(longest, end - start + 1);
-    result[s[end]] = end++;
+    longest = Math.max(longest, i - start + 1);
+    result[s[i]] = i;
   }
 
   return longest;

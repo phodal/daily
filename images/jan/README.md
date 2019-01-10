@@ -33,3 +33,7 @@ Jan.8 (~40mins)
 Jan.9 (~30mins)
 
 ![Lights](9.jpg)
+
+Jan.10 (~40mins)
+
+![Closer](10.jpg)

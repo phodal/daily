@@ -37,3 +37,7 @@ Jan.9 (~30mins)
 Jan.10 (~40mins)
 
 ![Closer](10.jpg)
+
+Jan.11 (~120mins)
+
+![Fox](11.jpg)

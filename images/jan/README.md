@@ -41,3 +41,7 @@ Jan.10 (~40mins)
 Jan.11 (~120mins)
 
 ![Fox](11.jpg)
+
+Jan.12 (~120mins)
+
+![Rome](12.jpg)

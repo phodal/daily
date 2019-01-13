@@ -45,3 +45,7 @@ Jan.11 (~120mins)
 Jan.12 (~120mins)
 
 ![Rome](12.jpg)
+
+Jan.13 (~40mins)
+
+![House](13.jpg)

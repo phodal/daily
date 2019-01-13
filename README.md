@@ -12,7 +12,7 @@ January, See in [Jokes](./jokes/README.md)
 
 ## Code
 
-Januaray, See in [Algo](./alog/REAMDE.md)
+Januaray, See in [Algo](./alog/README.md)
 
 ## Pro
 

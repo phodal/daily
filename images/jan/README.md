@@ -49,3 +49,7 @@ Jan.12 (~120mins)
 Jan.13 (~40mins)
 
 ![House](13.jpg)
+
+Jan.14 (~40mins)
+
+![Bicycle](14.jpg)

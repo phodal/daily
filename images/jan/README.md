@@ -53,3 +53,7 @@ Jan.13 (~40mins)
 Jan.14 (~40mins)
 
 ![Bicycle](14.jpg)
+
+Jan.15 (~30mins)
+
+![Kindle](15.jpg)

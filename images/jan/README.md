@@ -57,3 +57,7 @@ Jan.14 (~40mins)
 Jan.15 (~30mins)
 
 ![Kindle](15.jpg)
+
+J1n.16 (~30mins)
+
+![Voice](16.jpg)

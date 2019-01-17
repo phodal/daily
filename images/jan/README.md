@@ -58,6 +58,11 @@ Jan.15 (~30mins)
 
 ![Kindle](15.jpg)
 
-J1n.16 (~30mins)
+Jan.16 (~30mins)
 
 ![Voice](16.jpg)
+
+Jan.17 (~30mins)
+
+![Wolf](17.jpg)
+

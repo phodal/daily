@@ -66,3 +66,7 @@ Jan.17 (~30mins)
 
 ![Wolf](17.jpg)
 
+Jan.18 (~30mins)
+
+![Grass](18.jpg)
+

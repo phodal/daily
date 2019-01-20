@@ -73,3 +73,7 @@ Jan.18 (~30mins)
 Jan.19 (~30mins)
 
 ![weave](19.jpg)
+
+Jan.20 (~30mins)
+
+![Snow2](20.jpg)

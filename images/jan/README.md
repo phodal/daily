@@ -101,3 +101,7 @@ Jan.25 (~30mins)
 Jan.26 (~45mins)
 
 ![Tree Birds](26.jpg)
+
+Jan.27 (~40mins)
+
+![Dream](27.jpg)

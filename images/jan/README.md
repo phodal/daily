@@ -105,3 +105,7 @@ Jan.26 (~45mins)
 Jan.27 (~40mins)
 
 ![Dream](27.jpg)
+
+Jan.28 (~30mins)
+
+![Motor](28.jpg)

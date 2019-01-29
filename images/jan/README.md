@@ -109,3 +109,8 @@ Jan.27 (~40mins)
 Jan.28 (~30mins)
 
 ![Motor](28.jpg)
+
+Jan.29 (~30mins)
+
+![Flower](29.jpg)
+

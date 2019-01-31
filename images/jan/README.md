@@ -117,3 +117,7 @@ Jan.29 (~30mins)
 Jan.30 (~30mins)
 
 ![Flower](30.jpg)
+
+Jan.31 (~40mins)
+
+![Sea](31.jpg)

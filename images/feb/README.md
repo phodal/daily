@@ -5,3 +5,8 @@ Feb.1 (~15mins)
 Feb.2 (~40mins)
 
 ![Lion](2.jpg)
+
+Feb.3 (~40mins)
+
+![Dog](3.jpg)
+

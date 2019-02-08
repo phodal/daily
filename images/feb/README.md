@@ -26,3 +26,7 @@ Feb.7 (~40mins)
 
 ![REST](7.jpg)
 
+Feb.8 (~50mins)
+
+![Painter](8.jpg)
+

@@ -30,3 +30,7 @@ Feb.8 (~50mins)
 
 ![Painter](8.jpg)
 
+Feb.9 (~20mins)
+
+![Points](9.jpg)
+

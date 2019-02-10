@@ -34,3 +34,7 @@ Feb.9 (~20mins)
 
 ![Points](9.jpg)
 
+Feb.10 (~40mins)
+
+![Fashion](10.jpg)
+

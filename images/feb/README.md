@@ -42,3 +42,6 @@ Feb.11 (~20mins)
 
 ![Faces](11.jpg)
 
+Feb.12 (~25mins)
+
+![Dog2](12.jpg)

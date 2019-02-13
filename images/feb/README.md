@@ -45,3 +45,7 @@ Feb.11 (~20mins)
 Feb.12 (~25mins)
 
 ![Dog2](12.jpg)
+
+Feb.13 (~30mins)
+
+![Shopping](13.jpg)

@@ -49,3 +49,7 @@ Feb.12 (~25mins)
 Feb.13 (~30mins)
 
 ![Shopping](13.jpg)
+
+Feb.14 (~40mins)
+
+![See](14.jpg)

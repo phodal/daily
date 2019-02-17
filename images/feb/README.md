@@ -61,3 +61,7 @@ Feb.15 (~20mins)
 Feb.16 (~30mins)
 
 ![Rose](16.jpg)
+
+Feb.17 (~40mins)
+
+![Path](17.jpg)

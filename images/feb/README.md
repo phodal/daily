@@ -65,3 +65,8 @@ Feb.16 (~30mins)
 Feb.17 (~40mins)
 
 ![Path](17.jpg)
+
+Feb.18 (~35mins)
+
+![Path](18.jpg)
+

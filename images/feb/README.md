@@ -70,3 +70,7 @@ Feb.18 (~35mins)
 
 ![Path](18.jpg)
 
+Feb.19 (~25mins)
+
+![Starry](19.jpg)
+

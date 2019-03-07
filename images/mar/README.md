@@ -21,3 +21,7 @@ Mar.5 (~30mins)
 Mar.6 (~30mins)
 
 ![Dacing](6.jpg)
+
+Mar.7 (~30mins)
+
+![Raining](7.jpg)

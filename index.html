@@ -31,13 +31,12 @@
         </div>
       </div>
       <div class="event-listing">
-        <div class="event-listing-title">EVENTS THIS MONTH</div>
-        <% _.each(eventsThisMonth, function(event) { %>
+        <div class="event-listing-title"><%= extras.today.day %> Daily </div>
         <div class="event-item">
-          <div class="event-item-name"><%= event.title %></div>
-          <div class="event-item-location"><%= event.location %></div>
+          <div class="event-item-location">
+            <img src="<%= extras.today.image %>" alt="">
+          </div>
         </div>
-        <% }); %>
       </div>
     </script>
   </div>
@@ -48,26 +47,36 @@
 <script src="static/js/underscore-min.js"></script>
 <script src="static/js/clndr.min.js"></script>
 <script>
-  var calendars = {};
+  var calendar;
 
   $(document).ready(function () {
     var currentMonth = moment().format('YYYY-MM');
     var nextMonth = moment().add('month', 1).format('YYYY-MM');
 
     var events = [
-      {date: currentMonth + '-' + '10', title: 'Persian Kitten Auction', location: 'Center for Beautiful Cats'},
-      {date: currentMonth + '-' + '19', title: 'Cat Frisbee', location: 'Jefferson Park'},
-      {date: currentMonth + '-' + '23', title: 'Kitten Demonstration', location: 'Center for Beautiful Cats'},
-      {date: nextMonth + '-' + '07', title: 'Small Cat Photo Session', location: 'Center for Cat Photography'}
+      {date: currentMonth + '-' + '10'},
+      {date: currentMonth + '-' + '19'},
+      {date: currentMonth + '-' + '23'},
+      {date: nextMonth + '-' + '07'}
     ];
 
-    calendars.clndr1 = $('#full-clndr').clndr({
+    calendar = $('#full-clndr').clndr({
       template: $('#full-clndr-template').html(),
       events: events,
       forceSixRows: true,
+      extras: {
+        today: {
+          day: moment().format('YYYY-MM-DD'),
+          image: 'images/' + moment().format('M') + '/' + moment().format('DD') + '.jpg'
+        }
+      },
       clickEvents: {
         click: function (target) {
-          console.log('Cal-1 clicked: ', target);
+          if (!$(target.element).hasClass('inactive')) {
+            console.log('You picked a valid date!');
+          } else {
+            console.log('That date is outside of the range.');
+          }
         },
         today: function () {
           console.log('Cal-1 today');
@@ -110,18 +119,12 @@
     });
 
     $(document).keydown(function (e) {
-      // Left arrow
       if (e.keyCode === 37) {
-        calendars.clndr1.back();
-        calendars.clndr2.back();
-        calendars.clndr3.back();
+        calendar.back();
       }
 
-      // Right arrow
       if (e.keyCode === 39) {
-        calendars.clndr1.forward();
-        calendars.clndr2.forward();
-        calendars.clndr3.forward();
+        calendar.forward();
       }
     });
   });

@@ -421,7 +421,7 @@ p {
   text-align: right;
 }
 .inner {
-  max-width: 960px;
+  max-width: 90%;
   padding: 0 20px;
   margin: 0 auto;
 }
@@ -458,7 +458,7 @@ p {
 }
 #full-clndr .clndr-grid {
   float: left;
-  width: 65%;
+  width: 50%;
   /*border-right: 2px solid white;*/
 }
 #full-clndr .clndr-grid .days-of-the-week {
@@ -504,7 +504,7 @@ p {
 }
 #full-clndr .event-listing {
   float: left;
-  width: 35%;
+  width: 50%;
 }
 #full-clndr .event-listing .event-listing-title {
   padding: 14px;

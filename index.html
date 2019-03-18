@@ -8,50 +8,63 @@
   <link rel="stylesheet" href="static/css/clndr.css">
 </head>
 <body>
-<div class="cal1"></div>
+
+<div class="inner">
+  <div id="full-clndr" class="clearfix">
+    <script type="text/template" id="full-clndr-template">
+      <div class="clndr-controls">
+        <div class="clndr-previous-button">&lt;</div>
+        <div class="clndr-next-button">&gt;</div>
+        <div class="current-month"><%= month %> <%= year %></div>
+
+      </div>
+      <div class="clndr-grid">
+        <div class="days-of-the-week clearfix">
+          <% _.each(daysOfTheWeek, function(day) { %>
+          <div class="header-day"><%= day %></div>
+          <% }); %>
+        </div>
+        <div class="days">
+          <% _.each(days, function(day) { %>
+          <div class="<%= day.classes %>" id="<%= day.id %>"><span class="day-number"><%= day.day %></span></div>
+          <% }); %>
+        </div>
+      </div>
+      <div class="event-listing">
+        <div class="event-listing-title">EVENTS THIS MONTH</div>
+        <% _.each(eventsThisMonth, function(event) { %>
+        <div class="event-item">
+          <div class="event-item-name"><%= event.title %></div>
+          <div class="event-item-location"><%= event.location %></div>
+        </div>
+        <% }); %>
+      </div>
+    </script>
+  </div>
+</div>
 
 <script src="static/js/jquery-3.3.1.min.js"></script>
 <script src="static/js/moment.min.js"></script>
 <script src="static/js/underscore-min.js"></script>
 <script src="static/js/clndr.min.js"></script>
 <script>
-  // Call this from the developer console and you can control both instances
   var calendars = {};
 
-  $(document).ready( function() {
-    console.info(
-      'Welcome to the CLNDR demo. Click around on the calendars and' +
-      'the console will log different events that fire.');
+  $(document).ready(function () {
+    var currentMonth = moment().format('YYYY-MM');
+    var nextMonth = moment().add('month', 1).format('YYYY-MM');
 
-    // Assuming you've got the appropriate language files,
-    // clndr will respect whatever moment's language is set to.
-    // moment.locale('ru');
-
-    // Here's some magic to make sure the dates are happening this month.
-    var thisMonth = moment().format('YYYY-MM');
-    // Events to load into calendar
-    var eventArray = [
-      {
-        title: 'Multi-Day Event',
-        endDate: thisMonth + '-14',
-        startDate: thisMonth + '-10'
-      }, {
-        endDate: thisMonth + '-23',
-        startDate: thisMonth + '-21',
-        title: 'Another Multi-Day Event'
-      }, {
-        date: thisMonth + '-27',
-        title: 'Single Day Event'
-      }
+    var events = [
+      {date: currentMonth + '-' + '10', title: 'Persian Kitten Auction', location: 'Center for Beautiful Cats'},
+      {date: currentMonth + '-' + '19', title: 'Cat Frisbee', location: 'Jefferson Park'},
+      {date: currentMonth + '-' + '23', title: 'Kitten Demonstration', location: 'Center for Beautiful Cats'},
+      {date: nextMonth + '-' + '07', title: 'Small Cat Photo Session', location: 'Center for Cat Photography'}
     ];
 
-    // The order of the click handlers is predictable. Direct click action
-    // callbacks come first: click, nextMonth, previousMonth, nextYear,
-    // previousYear, nextInterval, previousInterval, or today. Then
-    // onMonthChange (if the month changed), inIntervalChange if the interval
-    // has changed, and finally onYearChange (if the year changed).
-    calendars.clndr1 = $('.cal1').clndr({
-      events: eventArray,
+    calendars.clndr1 = $('#full-clndr').clndr({
+      template: $('#full-clndr-template').html(),
+      events: events,
+      forceSixRows: true,
       clickEvents: {
         click: function (target) {
           console.log('Cal-1 clicked: ', target);
@@ -96,17 +109,16 @@
       adjacentDaysChangeMonth: false
     });
 
-    // Bind all clndrs to the left and right arrow keys
-    $(document).keydown( function(e) {
+    $(document).keydown(function (e) {
       // Left arrow
-      if (e.keyCode == 37) {
+      if (e.keyCode === 37) {
         calendars.clndr1.back();
         calendars.clndr2.back();
         calendars.clndr3.back();
       }
 
       // Right arrow
-      if (e.keyCode == 39) {
+      if (e.keyCode === 39) {
         calendars.clndr1.forward();
         calendars.clndr2.forward();
         calendars.clndr3.forward();

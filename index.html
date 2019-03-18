@@ -64,6 +64,10 @@
       template: $('#full-clndr-template').html(),
       events: events,
       forceSixRows: true,
+      constraints: {
+        endDate: moment().format('YYYY-MM-DD'),
+        startDate: '2019-01-01'
+      },
       extras: {
         today: {
           day: moment().format('YYYY-MM-DD'),
@@ -72,41 +76,7 @@
       },
       clickEvents: {
         click: function (target) {
-          if (!$(target.element).hasClass('inactive')) {
-            console.log('You picked a valid date!');
-          } else {
-            console.log('That date is outside of the range.');
-          }
-        },
-        today: function () {
-          console.log('Cal-1 today');
-        },
-        nextMonth: function () {
-          console.log('Cal-1 next month');
-        },
-        previousMonth: function () {
-          console.log('Cal-1 previous month');
-        },
-        onMonthChange: function () {
-          console.log('Cal-1 month changed');
-        },
-        nextYear: function () {
-          console.log('Cal-1 next year');
-        },
-        previousYear: function () {
-          console.log('Cal-1 previous year');
-        },
-        onYearChange: function () {
-          console.log('Cal-1 year changed');
-        },
-        nextInterval: function () {
-          console.log('Cal-1 next interval');
-        },
-        previousInterval: function () {
-          console.log('Cal-1 previous interval');
-        },
-        onIntervalChange: function () {
-          console.log('Cal-1 interval changed');
+          console.log(target)
         }
       },
       multiDayEvents: {

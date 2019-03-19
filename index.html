@@ -107,6 +107,12 @@
         calendar.forward();
       }
     });
+
+    $("img").on("error", function () {
+      $(this).unbind("error").attr("src", "static/placeholder.png")
+        .attr("height", "32px")
+        .attr("width", "32px")
+    });
   });
 </script>
 </body>

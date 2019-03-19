@@ -81,12 +81,27 @@
       clickEvents: {
         click: function (target) {
           console.log(target);
-          console.log(target.element.classList[2]);
+          var calendarClass;
+          for (var i = 0; i < target.element.classList.length; i++) {
+            var currentClass = target.element.classList[i];
+            if (currentClass.includes('calendar-day')) {
+              calendarClass = currentClass;
+            }
+          }
+          if (!calendarClass) {
+            return;
+          }
 
-          var imageSrc = $('.' + target.element.classList[2]).find('img').attr('src');
-          $("#current-image").attr('src', imageSrc)
-            .attr("width", "600px")
-            .attr("height", "360px")
+          var imageSrc = $('.' + calendarClass).find('img').attr('src');
+          if (imageSrc !== 'static/placeholder.png') {
+            $("#current-image").attr('src', imageSrc)
+              .attr("width", "100%")
+              .attr("height", "auto")
+          } else {
+            $("#current-image").attr("src", "static/placeholder.png")
+              .attr("height", "32px")
+              .attr("width", "32px")
+          }
         }
       },
       multiDayEvents: {

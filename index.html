@@ -27,8 +27,9 @@
         <div class="days">
           <% _.each(days, function(day) { %>
           <div class="<%= day.classes %>" id="<%= day.id %>">
-            <img src="images/<%= moment(day.date).format('MMM').toLowerCase() + '/' + day.day %>.jpg" alt=""
-                 width="100px" height="60">
+            <img src="images/<%= moment(day.date).format('MMM').toLowerCase() + '/' + day.day %>.thumbnail.jpg"
+                 data-origin="images/<%= moment(day.date).format('MMM').toLowerCase() + '/' + day.day %>.jpg"
+                 alt="" width="100px" height="60">
             <span class="day-number"><%= day.day %></span>
           </div>
           <% }); %>
@@ -92,7 +93,7 @@
             return;
           }
 
-          var imageSrc = $('.' + calendarClass).find('img').attr('src');
+          var imageSrc = $('.' + calendarClass).find('img').attr('data-origin');
           if (imageSrc !== 'static/placeholder.png') {
             $("#current-image").attr('src', imageSrc)
               .attr("width", "100%")

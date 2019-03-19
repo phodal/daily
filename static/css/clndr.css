@@ -467,7 +467,7 @@ p {
 }
 #full-clndr .clndr-grid .days-of-the-week .header-day {
   float: left;
-  width: 14.2857%;
+  width: 10%;
   padding: 14px;
   text-align: center;
   color: white;

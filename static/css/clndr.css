@@ -479,7 +479,7 @@ p {
 #full-clndr .clndr-grid .days .empty {
   float: left;
   width: 14.2857%;
-  /*height: 66px;*/
+  height: 60px;
   padding: 24px 0;
   text-align: center;
   color: #4f4f4f;

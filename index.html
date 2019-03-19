@@ -26,7 +26,10 @@
         </div>
         <div class="days">
           <% _.each(days, function(day) { %>
-          <div class="<%= day.classes %>" id="<%= day.id %>"><span class="day-number"><%= day.day %></span></div>
+          <div class="<%= day.classes %>" id="<%= day.id %>">
+            <img src="images/<%= moment(day.date).format('MMM') + '/' + day.day %>.jpg" alt="" width="40px" height="40px">
+            <span class="day-number"><%= day.day %></span>
+          </div>
           <% }); %>
         </div>
       </div>
@@ -76,7 +79,14 @@
       },
       clickEvents: {
         click: function (target) {
-          console.log(target)
+          console.log(target);
+          console.log(target.element.classList);
+          calendar.options.extras = {
+            today: {
+              day: moment().format('YYYY-MM-DD'),
+              image: 'images/' + moment().format('M') + '/' + '18.jpg'
+            }
+          }
         }
       },
       multiDayEvents: {

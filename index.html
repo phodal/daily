@@ -39,6 +39,7 @@
         <div class="event-listing-title">Daily</div>
         <div class="event-item">
           <div class="event-item-location">
+            <div class="loading" style="display: none">Loading</div>
             <img id="current-image" src="<%= extras.today.image %>" alt="">
           </div>
         </div>
@@ -81,7 +82,7 @@
       },
       clickEvents: {
         click: function (target) {
-          console.log(target);
+          $('.loading').show();
           var calendarClass;
           for (var i = 0; i < target.element.classList.length; i++) {
             var currentClass = target.element.classList[i];
@@ -98,10 +99,16 @@
             $("#current-image").attr('src', imageSrc)
               .attr("width", "100%")
               .attr("height", "auto")
+              .on("load", function () {
+                $('.loading').hide();
+              })
           } else {
             $("#current-image").attr("src", "static/placeholder.png")
               .attr("height", "32px")
               .attr("width", "32px")
+              .on("load", function () {
+                $('.loading').hide();
+              })
           }
         }
       },

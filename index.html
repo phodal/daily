@@ -94,19 +94,23 @@
             return;
           }
 
+          var $current = $("#current-image");
+          $current.hide();
           var imageSrc = $('.' + calendarClass).find('img').attr('data-origin');
           if (imageSrc !== 'static/placeholder.png') {
-            $("#current-image").attr('src', imageSrc)
+            $current.attr('src', imageSrc)
               .attr("width", "100%")
               .attr("height", "auto")
               .on("load", function () {
+                $current.show();
                 $('.loading').hide();
               })
           } else {
-            $("#current-image").attr("src", "static/placeholder.png")
+            $current.attr("src", "static/placeholder.png")
               .attr("height", "32px")
               .attr("width", "32px")
               .on("load", function () {
+                $current.show();
                 $('.loading').hide();
               })
           }

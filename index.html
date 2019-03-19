@@ -27,17 +27,18 @@
         <div class="days">
           <% _.each(days, function(day) { %>
           <div class="<%= day.classes %>" id="<%= day.id %>">
-            <img src="images/<%= moment(day.date).format('MMM') + '/' + day.day %>.jpg" alt="" width="100px" height="60">
+            <img src="images/<%= moment(day.date).format('MMM').toLowerCase() + '/' + day.day %>.jpg" alt=""
+                 width="100px" height="60">
             <span class="day-number"><%= day.day %></span>
           </div>
           <% }); %>
         </div>
       </div>
       <div class="event-listing">
-        <div class="event-listing-title"><%= extras.today.day %> Daily </div>
+        <div class="event-listing-title"><%= extras.today.day %> Daily</div>
         <div class="event-item">
           <div class="event-item-location">
-            <img src="<%= extras.today.image %>" alt="">
+            <img id="current-image" src="<%= extras.today.image %>" alt="">
           </div>
         </div>
       </div>
@@ -80,13 +81,12 @@
       clickEvents: {
         click: function (target) {
           console.log(target);
-          console.log(target.element.classList);
-          calendar.options.extras = {
-            today: {
-              day: moment().format('YYYY-MM-DD'),
-              image: 'images/' + moment().format('M') + '/' + '18.jpg'
-            }
-          }
+          console.log(target.element.classList[2]);
+
+          var imageSrc = $('.' + target.element.classList[2]).find('img').attr('src');
+          $("#current-image").attr('src', imageSrc)
+            .attr("width", "600px")
+            .attr("height", "360px")
         }
       },
       multiDayEvents: {

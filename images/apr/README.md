@@ -21,3 +21,8 @@ April.5 (~35mins)
 April.6 (~20mins)
 
 ![Vocation](6.jpg)
+
+April.7 (~35mins)
+
+![Beach](7.jpg)
+

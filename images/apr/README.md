@@ -26,3 +26,7 @@ April.7 (~35mins)
 
 ![Beach](7.jpg)
 
+April.8 (~35mins)
+
+![Walk](8.jpg)
+

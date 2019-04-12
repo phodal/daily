@@ -41,3 +41,8 @@ April.10 (~25mins)
 April.11 (~25mins)
 
 ![History](11.jpg)
+
+April.12 (~60mins)
+
+![Malay](12.jpg)
+

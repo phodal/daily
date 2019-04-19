@@ -69,3 +69,7 @@ April.17 (~30mins)
 April.18 (~30mins)
 
 ![Mettings](18.jpg)
+
+April.19 (~20mins)
+
+![Thinking](19.jpg)

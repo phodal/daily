@@ -73,3 +73,7 @@ April.18 (~30mins)
 April.19 (~20mins)
 
 ![Thinking](19.jpg)
+
+April.20 (~20mins)
+
+![Kills](20.jpg)

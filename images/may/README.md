@@ -17,3 +17,8 @@ May.4 (~15mins)
 May.5 (~20mins)
 
 ![Batman](5.jpg)
+
+May.6 (~20mins)
+
+![Flower](6.jpg)
+

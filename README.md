@@ -12,6 +12,8 @@
 
 四月，入门, See in [April images](./images/apr/README.md)
 
+五月，快速, See in [May images](./images/may/README.md)
+
 ## 段子
 
 January, See in [Jokes](./jokes/README.md)

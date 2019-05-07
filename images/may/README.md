@@ -22,3 +22,6 @@ May.6 (~20mins)
 
 ![Flower](6.jpg)
 
+May.7 (~15mins)
+
+![Rains](7.jpg)

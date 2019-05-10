@@ -34,3 +34,7 @@ May.9 (~20mins)
 
 ![Fields](9.jpg)
 
+May.10 (~30mins)
+
+![Swim](10.jpg)
+

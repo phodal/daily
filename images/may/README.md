@@ -50,4 +50,6 @@ May.13 (~15mins)
 
 ![Tired](13.jpg) It seems sick?
 
+May.14 (~30mins)
 
+![Joke](14.jpg)

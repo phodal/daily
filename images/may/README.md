@@ -53,3 +53,8 @@ May.13 (~15mins)
 May.14 (~30mins)
 
 ![Joke](14.jpg)
+
+May.15 (~30mins)
+
+![Thinking](~15.jpg)
+

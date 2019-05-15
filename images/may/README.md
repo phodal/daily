@@ -56,5 +56,5 @@ May.14 (~30mins)
 
 May.15 (~30mins)
 
-![Thinking](~15.jpg)
+![Thinking](15.jpg)
 

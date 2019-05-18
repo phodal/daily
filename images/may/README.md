@@ -66,3 +66,7 @@ May.17 (~20mins)
 
 ![Like Cat](17.jpg)
 
+May.18 (~30mins)
+
+![Drink](18.jpg)
+

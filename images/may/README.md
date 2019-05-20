@@ -74,4 +74,7 @@ May.19 (~30mins)
 
 ![Waiting](19.jpg)
 
+May.20 (~30mins)
+
+![Drink](20.jpg)
 

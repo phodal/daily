@@ -90,3 +90,7 @@ May.23 (~30mins)
 
 ![Break Time](23.jpg)
 
+May.24 (~30mins)
+
+![Shadow](24.jpg)
+

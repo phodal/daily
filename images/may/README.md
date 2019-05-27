@@ -102,3 +102,7 @@ May.26 (~25mins)
 
 ![CP](26.jpg)
 
+May.27 (~30mins)
+
+![Coffee](27.jpg)
+

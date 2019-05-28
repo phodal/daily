@@ -106,3 +106,7 @@ May.27 (~30mins)
 
 ![Coffee](27.jpg)
 
+May.28 (~20mins)
+
+![Boss](28.jpg)
+

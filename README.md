@@ -14,6 +14,8 @@
 
 五月，快速, See in [May images](./images/may/README.md)
 
+六月，新入, See in [June images](./images/jun/README.md)
+
 ## 段子
 
 January, See in [Jokes](./jokes/README.md)

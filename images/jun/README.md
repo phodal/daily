@@ -6,3 +6,7 @@ June.2 (~30mins) with Krita
 
 ![Facny](2.jpg)
 
+June.3 (~30mins) with Krita
+
+![Practises](3.jpg)
+

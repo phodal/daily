@@ -10,7 +10,10 @@ June.3 (~30mins) with Krita
 
 ![Practises](3.jpg)
 
-June.4 (~39mins) with Krita
+June.4 (~30mins) with Krita
 
 ![Walking](4.jpg)
 
+June.5 (~15mins) with krita
+
+![Something](5.jpg)

@@ -17,3 +17,8 @@ June.4 (~30mins) with Krita
 June.5 (~15mins) with krita
 
 ![Something](5.jpg)
+
+June.6 (~30mins) with Krita
+
+![Road](6.jpg)
+

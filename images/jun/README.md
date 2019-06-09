@@ -30,3 +30,7 @@ June.8 (~10mins) with Krita
 
 ![Educated](8.jpg)
 
+June.9 (~15mins) with Krita
+
+![Birds](9.jpg)
+

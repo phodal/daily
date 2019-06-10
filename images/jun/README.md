@@ -34,3 +34,7 @@ June.9 (~15mins) with Krita
 
 ![Birds](9.jpg)
 
+June.10 (~30mins) with Krita
+
+![Trains](10.jpg)
+

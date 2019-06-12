@@ -41,3 +41,8 @@ June.10 (~30mins) with Krita
 June.11 (~30mins) with Krita
 
 ![Sleep](11.jpg)
+
+June.12 (~30mins) with Krita
+
+![Thinking](12.jpg)
+

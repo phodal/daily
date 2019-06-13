@@ -46,3 +46,7 @@ June.12 (~30mins) with Krita
 
 ![Thinking](12.jpg)
 
+Jun.13 (~30mins) with Krita
+
+![Nathing](13.jpg)
+

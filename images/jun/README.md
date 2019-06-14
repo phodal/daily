@@ -50,3 +50,7 @@ Jun.13 (~30mins) with Krita
 
 ![Nathing](13.jpg)
 
+Jun.14 (~20mins) with krita
+
+![Hug](14.jpg)
+

@@ -58,3 +58,7 @@ Jun.15 (~20mins) with Krita
 
 ![Back](15.jpg)
 
+Jun.16 (~120mins) with Photoshop
+
+![Waiting](16.jpg)
+

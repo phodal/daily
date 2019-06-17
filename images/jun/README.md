@@ -62,3 +62,7 @@ Jun.16 (~120mins) with Photoshop
 
 ![Waiting](16.jpg)
 
+June.17 (~30mins) with Photoshop
+
+![Garden](17.jpg)
+

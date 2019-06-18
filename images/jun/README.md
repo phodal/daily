@@ -66,3 +66,7 @@ June.17 (~30mins) with Photoshop
 
 ![Garden](17.jpg)
 
+June.18 (~30mins) with Photoshop
+
+![Dance](18.jpg)
+

@@ -70,3 +70,7 @@ June.18 (~30mins) with Photoshop
 
 ![Dance](18.jpg)
 
+June.19 (~35mins) with Photoshop
+
+![Sea](19.jpg)
+

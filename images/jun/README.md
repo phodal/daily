@@ -94,7 +94,12 @@ June.24 (~30mins) with Photoshop
 
 ![Watching](24.jpg)
 
-June.25 (~30mins) with Photoshpo
+June.25 (~30mins) with Photoshop
 
 ![Beach](25.jpg)
+
+June.26 (~25mins) with Photoshop
+
+![Watching](26.jpg)
+
 

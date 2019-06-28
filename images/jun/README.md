@@ -106,3 +106,7 @@ June.27 (~20min) with Photoshop
 
 ![Waterfall](27.jpg)
 
+June.28 (~30mins) with Photoshop
+
+![landscape](28.jpg)
+

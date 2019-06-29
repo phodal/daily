@@ -29,7 +29,7 @@
           <div class="<%= day.classes %>" id="<%= day.id %>">
             <img src="images/<%= moment(day.date).format('MMM').toLowerCase() + '/' + day.day %>.thumbnail.jpg"
                  data-origin="images/<%= moment(day.date).format('MMM').toLowerCase() + '/' + day.day %>.jpg"
-                 alt="" width="100px" height="50">
+                 alt="" width="100px" height="50px">
             <span class="day-number"><%= day.day %></span>
           </div>
           <% }); %>

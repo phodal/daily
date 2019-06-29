@@ -110,3 +110,7 @@ June.28 (~30mins) with Photoshop
 
 ![landscape](28.jpg)
 
+June.29 (~50mins) with Photoshop
+
+![Beach](29.jpg)
+

@@ -114,3 +114,7 @@ June.29 (~50mins) with Photoshop
 
 ![Beach](29.jpg)
 
+June.30 (~60mins) with Photoshop
+
+![Beach2](30.jpg)
+

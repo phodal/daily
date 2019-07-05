@@ -16,3 +16,7 @@ July.4 (~25mins) with Photoshop
 
 ![Snow](4.jpg)
 
+July.5 (~30mins) with Photoshop
+
+![Swim](5.jpg)
+

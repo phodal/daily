@@ -20,3 +20,7 @@ July.5 (~30mins) with Photoshop
 
 ![Swim](5.jpg)
 
+July.6 (~25mins) with Photoshop
+
+![Legs](6.jpg)
+

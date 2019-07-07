@@ -24,3 +24,7 @@ July.6 (~25mins) with Photoshop
 
 ![Legs](6.jpg)
 
+July.7 (~35mins) with Photoshop
+
+![Phoen](7.jpg)
+

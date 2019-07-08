@@ -28,3 +28,7 @@ July.7 (~35mins) with Photoshop
 
 ![Phoen](7.jpg)
 
+July.8 (~30mins) with Photoshop
+
+![Swim Pool](8.jpg)
+

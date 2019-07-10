@@ -36,3 +36,7 @@ July.9 (~25mins) with Photoshop
 
 ![Snow Mountain](9.jpg)
 
+July.10 (~30mins) with Photoshop
+
+![Waterfall](10.jpg)
+

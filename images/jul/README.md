@@ -40,3 +40,7 @@ July.10 (~30mins) with Photoshop
 
 ![Waterfall](10.jpg)
 
+July.11 (~30mins) with Photoshop
+
+![Beach](11.jpg)
+

@@ -48,3 +48,8 @@ July.12 (~30mins) with Photoshop
 
 ![Ours](12.jpg)
 
+July.13 (~20mins) with Photoshop
+
+![Whale](13.jpg)
+
+

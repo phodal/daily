@@ -52,7 +52,11 @@ July.13 (~20mins) with Photoshop
 
 ![Whale](13.jpg)
 
-July.14 (40mins) with Photoshop
+July.14 (~40mins) with Photoshop
 
 ![Go](14.jpg)
+
+July.15 (~30mins) with Photoshop
+
+![Beach](15.jpg)
 

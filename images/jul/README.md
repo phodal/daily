@@ -60,3 +60,7 @@ July.15 (~30mins) with Photoshop
 
 ![Beach](15.jpg)
 
+July.16 (~30mins) with Photoshop
+
+![Walking](16.jpg)
+

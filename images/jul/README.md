@@ -64,3 +64,7 @@ July.16 (~30mins) with Photoshop
 
 ![Walking](16.jpg)
 
+July.17 (~40mins) with Photoshop
+
+![Tower](17.jpg)
+

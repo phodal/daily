@@ -68,3 +68,7 @@ July.17 (~40mins) with Photoshop
 
 ![Tower](17.jpg)
 
+July.18 (~30mins) with Photoshop
+
+![Grils](18.jpg)
+

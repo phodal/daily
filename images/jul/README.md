@@ -72,3 +72,7 @@ July.18 (~30mins) with Photoshop
 
 ![Grils](18.jpg)
 
+July.19 (~30mins) with Photoshop
+
+![Window](19.jpg)
+

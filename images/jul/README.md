@@ -76,3 +76,7 @@ July.19 (~30mins) with Photoshop
 
 ![Window](19.jpg)
 
+July.20 (~45mins) with Photosho
+
+![Cat](20.jpg)
+

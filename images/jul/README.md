@@ -80,3 +80,7 @@ July.20 (~45mins) with Photosho
 
 ![Cat](20.jpg)
 
+July.21 (~30mins) with Photoshop
+
+![Ground](21.jpg)
+

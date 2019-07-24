@@ -92,3 +92,7 @@ July.23 (~30mins) with Photoshop
 
 ![Nigh](23.jpg)
 
+July.24 (~30mins) with Photoshop
+
+![Storm](24.jpg)
+

@@ -96,3 +96,7 @@ July.24 (~30mins) with Photoshop
 
 ![Storm](24.jpg)
 
+July.25 (~30mins) with Photoshop
+
+![Waterfall](25.jpg)
+

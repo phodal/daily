@@ -100,3 +100,7 @@ July.25 (~30mins) with Photoshop
 
 ![Waterfall](25.jpg)
 
+July.26 (~30mins) with Photoshop
+
+![Cloud](26.jpg)
+

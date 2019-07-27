@@ -104,3 +104,7 @@ July.26 (~30mins) with Photoshop
 
 ![Cloud](26.jpg)
 
+July.27 (~30mins) with Photoshop
+
+![Lamp](27.jpg)
+

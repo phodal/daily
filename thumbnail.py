@@ -20,7 +20,6 @@ for root, dirs, files in os.walk('images'):
       if not os.path.exists(os.path.join(root, f.replace('.jpg', '.thumbnail.jpg'))):
         images.append(os.path.join(root, f))
 
-  print(images)
   for f in images:
     outbase = f[:-4]  # simply remove '.jpg'
     out = outbase = outbase +'.thumbnail.jpg'

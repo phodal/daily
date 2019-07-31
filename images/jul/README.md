@@ -120,3 +120,7 @@ July.30 (~30mins) with Photoshop
 
 ![Sitting](30.jpg)
 
+July.31 (~30mins) with Photoshop
+
+![Drink](31.jpg)
+

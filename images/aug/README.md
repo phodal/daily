@@ -2,3 +2,7 @@ Aug.1 (~25mins) with Photoshop
 
 ![Defense](1.jpg)
 
+Aug.2 (~30mins) with Photoshop
+
+![Rain](2.jpg)
+

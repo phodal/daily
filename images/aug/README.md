@@ -6,3 +6,7 @@ Aug.2 (~30mins) with Photoshop
 
 ![Rain](2.jpg)
 
+Aug.3 (~10mins) with Photoshop
+
+![Anxious](3.jpg)
+

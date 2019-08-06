@@ -14,7 +14,11 @@ Aug.4 (~12mins) with Photoshop
 
 ![Parents](4.jpg)
 
-Aug.8 (~15mins) with Photoshop
+Aug.5 (~15mins) with Photoshop
 
 ![Drive](5.jpg)
+
+Aug.6 (~25mins) with Photoshop
+
+![Reading](6.jpg)
 

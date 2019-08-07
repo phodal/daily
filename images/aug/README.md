@@ -22,3 +22,6 @@ Aug.6 (~25mins) with Photoshop
 
 ![Reading](6.jpg)
 
+Aug.7 (~30mins) with Photoshop
+
+![Fishwomen](7.jpg)

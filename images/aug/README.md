@@ -30,3 +30,7 @@ Aug.8 (~25mins) with Photoshop
 
 ![Walking](8.jpg)
 
+Aug.9 (~20mins) with Photoshop
+
+![Move](9.jpg)
+

@@ -34,3 +34,8 @@ Aug.9 (~20mins) with Photoshop
 
 ![Move](9.jpg)
 
+Aug.10 (~22mins) with Photoshop
+
+![Lemon](10.jpg)
+
+

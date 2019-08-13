@@ -46,3 +46,8 @@ Aug.12 (~12mins) with Photoshop
 
 ![Coffee](12.jpg)
 
+Aug.13 (~25mins) with Photoshop
+
+![Lights](13.jpg)
+
+

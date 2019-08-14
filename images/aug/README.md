@@ -50,4 +50,7 @@ Aug.13 (~25mins) with Photoshop
 
 ![Lights](13.jpg)
 
+Aug.14 (~25mins) with Photoshop
+
+![Wave](14.jpg)
 

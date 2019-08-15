@@ -54,3 +54,7 @@ Aug.14 (~25mins) with Photoshop
 
 ![Wave](14.jpg)
 
+Aug.15 (~30mins) with Photoshop
+
+![Bird](15.jpg)
+

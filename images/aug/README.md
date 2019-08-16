@@ -58,3 +58,7 @@ Aug.15 (~30mins) with Photoshop
 
 ![Bird](15.jpg)
 
+Aug.16 (~20mins) with Photoshop
+
+![Girls](16.jpg)
+

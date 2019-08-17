@@ -62,3 +62,7 @@ Aug.16 (~20mins) with Photoshop
 
 ![Girls](16.jpg)
 
+Aug.17 (~25mins) with Photoshop
+
+![Glasses](17.jpg)
+

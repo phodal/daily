@@ -66,3 +66,7 @@ Aug.17 (~25mins) with Photoshop
 
 ![Glasses](17.jpg)
 
+Aug.18 (~10mins) with Photoshop
+
+![Sand](18.jpg)
+

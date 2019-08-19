@@ -70,3 +70,7 @@ Aug.18 (~10mins) with Photoshop
 
 ![Sand](18.jpg)
 
+Aug.19 (~25mins) with Photoshop
+
+![Lights](19.jpg)
+

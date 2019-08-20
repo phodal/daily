@@ -74,3 +74,7 @@ Aug.19 (~25mins) with Photoshop
 
 ![Lights](19.jpg)
 
+Aug.20 ~(20mins) with Photoshop
+
+![Color](20.jpg)
+

@@ -82,3 +82,7 @@ Aug.21 (~15mins) with Photoshop
 
 ![Lamp](21.jpg)
 
+Aug.22 (~22mins) with Photoshop
+
+![Beach](22.jpg)
+

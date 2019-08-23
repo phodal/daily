@@ -86,3 +86,7 @@ Aug.22 (~22mins) with Photoshop
 
 ![Beach](22.jpg)
 
+Aug.23 (~25mins) with Photoshop & Wacom CTL4100
+
+![Snow](23.jpg)
+

@@ -90,3 +90,7 @@ Aug.23 (~25mins) with Photoshop & Wacom CTL4100
 
 ![Snow](23.jpg)
 
+Aug.24 (~15mins) with Photoshop & Wacom CTL4100
+
+![Dandelion](24.jpg)
+

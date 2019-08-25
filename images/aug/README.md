@@ -94,3 +94,7 @@ Aug.24 (~15mins) with Photoshop & Wacom CTL4100
 
 ![Dandelion](24.jpg)
 
+Aug.25 (~15mins) with Photoshop & Wacom CTL4100
+
+![Cat](25.jpg)
+

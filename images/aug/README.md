@@ -102,3 +102,7 @@ Aug.26 (~20mins) with Photoshop & Wacom CTL4100
 
 ![Night](26.jpg)
 
+Aug.27 (~15mins) with Photoshop & Wacom CTL4100
+
+![Summer](27.jpg)
+

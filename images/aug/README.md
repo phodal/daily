@@ -106,3 +106,8 @@ Aug.27 (~15mins) with Photoshop & Wacom CTL4100
 
 ![Summer](27.jpg)
 
+Aug.28 (~25mins) with PS & Intuos pro
+
+![Waterfall](28.jpg)
+
+

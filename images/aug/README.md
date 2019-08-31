@@ -118,3 +118,7 @@ Aug.30 (~25mins) with PS & Intuos Pro
 
 ![Weddding](30.jpg)
 
+Aug.31 (~25mins) with PS & Huion
+
+![Rainning](31.jpg)
+

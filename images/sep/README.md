@@ -10,3 +10,6 @@ Sep.3 (~30mins) with PS & Huion
 
 ![Autugn](3.jpg)
 
+Sep.4 (~25mins) with PS & Huion
+
+![Augutu](4.jpg)

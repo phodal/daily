@@ -13,3 +13,8 @@ Sep.3 (~30mins) with PS & Huion
 Sep.4 (~25mins) with PS & Huion
 
 ![Augutu](4.jpg)
+
+Sep.5 (~30mins) with PS & Huion
+
+![Wind](5.jpg)
+

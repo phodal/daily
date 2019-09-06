@@ -18,3 +18,7 @@ Sep.5 (~30mins) with PS & Huion
 
 ![Wind](5.jpg)
 
+Sep.6 (~30mins) with PS & Huion
+
+![Glasses](6.jpg)
+

@@ -22,3 +22,7 @@ Sep.6 (~30mins) with PS & Huion
 
 ![Glasses](6.jpg)
 
+Sep.7 (~25mins) with PS & Wacom Intuos
+
+![Waterfall](7.jpg)
+

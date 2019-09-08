@@ -26,3 +26,7 @@ Sep.7 (~25mins) with PS & Wacom Intuos
 
 ![Waterfall](7.jpg)
 
+Sep.8 (~30mins) with PS & Wacom Intuos Pro
+
+![Wild](8.jpg)
+

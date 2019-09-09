@@ -30,3 +30,7 @@ Sep.8 (~30mins) with PS & Wacom Intuos Pro
 
 ![Wild](8.jpg)
 
+Sep.9 (~25mins) with PS & Huion
+
+![Girl](9.jpg)
+

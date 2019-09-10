@@ -34,3 +34,7 @@ Sep.9 (~25mins) with PS & Huion
 
 ![Girl](9.jpg)
 
+Sep.10 (~30mins) with PS & Huion
+
+![Welcome](10.jpg)
+

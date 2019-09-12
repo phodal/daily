@@ -42,3 +42,7 @@ Sep.11 (~30mins) with PS & Huion
 
 ![Swirt](11.jpg)
 
+Sep.12 (~30mins) with PS & Huion
+
+![Watching](12.jpg)
+

@@ -46,3 +46,8 @@ Sep.12 (~30mins) with PS & Huion
 
 ![Watching](12.jpg)
 
+Sep.13 (~20mins) with PS & Intuos Pro
+
+![Night](13.jpg)
+
+

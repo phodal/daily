@@ -50,4 +50,7 @@ Sep.13 (~20mins) with PS & Intuos Pro
 
 ![Night](13.jpg)
 
+Sep.14 (~15mins) with PS & Intuos mini
+
+![Stars](14.jpg)
 

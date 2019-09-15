@@ -54,3 +54,7 @@ Sep.14 (~15mins) with PS & Intuos mini
 
 ![Stars](14.jpg)
 
+Sep.15 (~25mins) with PS & Intuos Pro
+
+![Bikes](15.jpg)
+

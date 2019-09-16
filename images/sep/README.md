@@ -58,3 +58,7 @@ Sep.15 (~25mins) with PS & Intuos Pro
 
 ![Bikes](15.jpg)
 
+Sep.16 (~30mins) with PS & Huion
+
+![Tired](16.jpg)
+

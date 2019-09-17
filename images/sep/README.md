@@ -62,3 +62,7 @@ Sep.16 (~30mins) with PS & Huion
 
 ![Tired](16.jpg)
 
+Sep.17 (~30mins) with PS & Huion
+
+![Back](17.jpg)
+

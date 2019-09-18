@@ -66,3 +66,7 @@ Sep.17 (~30mins) with PS & Huion
 
 ![Back](17.jpg)
 
+Sep.18 (~25mins) with PS & Huion
+
+![Beach](18.jpg)
+

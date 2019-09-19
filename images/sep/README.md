@@ -70,3 +70,7 @@ Sep.18 (~25mins) with PS & Huion
 
 ![Beach](18.jpg)
 
+Sep.19 (~20mins) with PS & Huion
+
+![Road](19.jpg)
+

@@ -74,3 +74,7 @@ Sep.19 (~20mins) with PS & Huion
 
 ![Road](19.jpg)
 
+Sep.20 (~20mins) with PS & Huion
+
+![Street](20.jpg)
+

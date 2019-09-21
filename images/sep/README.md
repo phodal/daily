@@ -78,3 +78,7 @@ Sep.20 (~20mins) with PS & Huion
 
 ![Street](20.jpg)
 
+Sep.21 (~25mins) with PS & Huion
+
+![Waterfall](21.jpg)
+

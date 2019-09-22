@@ -82,3 +82,7 @@ Sep.21 (~25mins) with PS & Huion
 
 ![Waterfall](21.jpg)
 
+Sep.22 (~20mins) with PS & Huon
+
+![Rain](22.jpg)
+

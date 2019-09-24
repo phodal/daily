@@ -90,3 +90,7 @@ Sep.23 (~20mins) with PS & Huion
 
 ![Night](23.jpg)
 
+Sep.24 (~25mins) with PS & Huion
+
+![Dresses](24.jpg)
+

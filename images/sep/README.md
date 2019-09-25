@@ -94,3 +94,7 @@ Sep.24 (~25mins) with PS & Huion
 
 ![Dresses](24.jpg)
 
+Sep.25 (~20mins) with PS & Huion
+
+![Waiting](25.jpg)
+

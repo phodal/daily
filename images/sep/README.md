@@ -98,3 +98,7 @@ Sep.25 (~20mins) with PS & Huion
 
 ![Waiting](25.jpg)
 
+Sep.26 (~25mins) with PS & Huion
+
+![Stone](26.jpg)
+

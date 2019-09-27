@@ -102,3 +102,7 @@ Sep.26 (~25mins) with PS & Huion
 
 ![Stone](26.jpg)
 
+Sep.27 (~25mins) with PS & Huion
+
+![Mountain](27.jpg)
+

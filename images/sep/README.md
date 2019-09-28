@@ -106,3 +106,7 @@ Sep.27 (~25mins) with PS & Huion
 
 ![Mountain](27.jpg)
 
+Sep.28 (~20mins) with PS & Huion
+
+![Sundown](28.jpg)
+

@@ -110,3 +110,7 @@ Sep.28 (~20mins) with PS & Huion
 
 ![Sundown](28.jpg)
 
+Sep.29 (~25mins) with PS & Huion
+
+![foison](29.jpg)
+

@@ -114,3 +114,7 @@ Sep.29 (~25mins) with PS & Huion
 
 ![foison](29.jpg)
 
+Sep.30 (~25mins) with PS & Huion
+
+![Point](30.jpg)
+

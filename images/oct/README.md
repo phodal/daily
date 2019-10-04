@@ -10,3 +10,7 @@ Oct.3 (~25mins) with PS & Watcom Mini
 
 ![Beach 3](3.jpg)
 
+Oct.4 (~15mins) with PS & Wacom Mini
+
+![Glasses](4.jpg)
+

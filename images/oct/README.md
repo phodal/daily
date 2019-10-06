@@ -18,3 +18,7 @@ Oct.5 (~20mins) with PS & Wacom Mini
 
 ![Waterfall](5.jpg)
 
+Oct.6 (~20mins) with PS & Wacom Pro
+
+![Dance2](6.jpg)
+

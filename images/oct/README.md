@@ -22,3 +22,7 @@ Oct.6 (~20mins) with PS & Wacom Pro
 
 ![Dance2](6.jpg)
 
+Oct.7 (~20mins) with PS & Wacom Mini
+
+![Lemon](7.jpg)
+

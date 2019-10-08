@@ -26,3 +26,7 @@ Oct.7 (~20mins) with PS & Wacom Mini
 
 ![Lemon](7.jpg)
 
+Oct.8 (~15mins) with PS & iPad Air
+
+![Strom](8.jpg)
+

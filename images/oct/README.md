@@ -30,3 +30,7 @@ Oct.8 (~15mins) with PS & iPad Air
 
 ![Strom](8.jpg)
 
+Oct.9 (~30mins) with PS & Wacom Mini
+
+![Girl](9.jpg)
+

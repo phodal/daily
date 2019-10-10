@@ -34,3 +34,7 @@ Oct.9 (~30mins) with PS & Wacom Mini
 
 ![Girl](9.jpg)
 
+Oct.10 (~20mins) with PS & Wacom Mini
+
+![Sun](10.jpg)
+

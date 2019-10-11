@@ -40,5 +40,9 @@ Oct.10 (~20mins) with PS & Wacom Mini
 
 Oct.11 (~20mins) with PS & Wacom Mini
 
-![Birds](21.jpg)
+![Birds](11.jpg)
+
+Oct.12 (~25mins) with PS & Wacom Mini
+
+![Mountain Lines](12.jpg)
 

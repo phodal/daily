@@ -38,3 +38,7 @@ Oct.10 (~20mins) with PS & Wacom Mini
 
 ![Sun](10.jpg)
 
+Oct.11 (~20mins) with PS & Wacom Mini
+
+![Birds](21.jpg)
+

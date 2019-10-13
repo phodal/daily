@@ -46,3 +46,8 @@ Oct.12 (~25mins) with PS & Wacom Mini
 
 ![Mountain Lines](12.jpg)
 
+Oct.13 (~30mins) with PS & Wacom Intuos
+
+![Rreading](13.jpg)
+
+

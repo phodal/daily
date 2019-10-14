@@ -50,4 +50,7 @@ Oct.13 (~30mins) with PS & Wacom Intuos
 
 ![Rreading](13.jpg)
 
+Oct.14 (~20mins) with PS & Wacom Intuos
+
+![Orange](14.jpg)
 

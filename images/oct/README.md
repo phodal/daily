@@ -58,3 +58,7 @@ Oct.15 (~30mins) with PS & Wacom Intuos
 
 ![landscape](15.jpg)
 
+Oct.16 (~25mins) with PS & Wacom Intuos
+
+![Tree](16.jpg)
+ 

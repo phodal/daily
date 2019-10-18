@@ -66,3 +66,7 @@ Oct.17 (~20mins) with PS & Wacom Intuos
 
 ![Dange](17.jpg)
 
+Oct.18 (~20mins) with PS & Wacom Intuos
+
+![Future](18.jpg)
+

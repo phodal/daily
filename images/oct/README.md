@@ -70,3 +70,8 @@ Oct.18 (~20mins) with PS & Wacom Intuos
 
 ![Future](18.jpg)
 
+Oct.19 (~30mins) with PS & Wacom Intuos
+
+![My Girl](19.jpg)
+
+

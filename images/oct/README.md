@@ -82,3 +82,7 @@ Oct.21 (~10mins) with PS 7 Wacom Mini
 
 ![Sand](21.jpg)
 
+Oct.22 (~10mins) with PS & Wacom Mini
+
+![Sky](22.jpg)
+

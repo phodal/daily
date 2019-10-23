@@ -86,3 +86,7 @@ Oct.22 (~10mins) with PS & Wacom Mini
 
 ![Sky](22.jpg)
 
+Oct.23 (~15mins) with PS & Wacom Mini
+
+![Wave](23.jpg)
+

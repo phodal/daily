@@ -90,3 +90,7 @@ Oct.23 (~15mins) with PS & Wacom Mini
 
 ![Wave](23.jpg)
 
+Oct.24 (~20mins) with PS & Wacom Mini
+
+![Sandwich](24.jpg)
+

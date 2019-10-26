@@ -98,3 +98,7 @@ Oct.25 (~20mins) with PS & Wacom Mini
 
 ![hammer](25.jpg)
 
+Oct.26 (~15mins) with pS & Wacom Mini
+
+![Light](26.jpg)
+

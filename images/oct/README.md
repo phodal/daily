@@ -102,3 +102,8 @@ Oct.26 (~15mins) with pS & Wacom Mini
 
 ![Light](26.jpg)
 
+Oct.27 (~20mins) with PS & Wacom Mini
+
+![Drink](27.jpg)
+
+

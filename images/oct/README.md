@@ -106,4 +106,7 @@ Oct.27 (~20mins) with PS & Wacom Mini
 
 ![Drink](27.jpg)
 
+Oct.28 (~20mins) with PS & Wacom Mini
+
+![Ice Cream](28.jpg)
 

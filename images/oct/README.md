@@ -110,3 +110,7 @@ Oct.28 (~20mins) with PS & Wacom Mini
 
 ![Ice Cream](28.jpg)
 
+Oct.29 (~10mins) with pS & Wacom Mini
+
+![Wave](29.jpg)
+

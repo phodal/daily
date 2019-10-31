@@ -118,3 +118,7 @@ Oct.30 (~10mins) with PS & Wacom Mini
 
 ![Storm](30.jpg)
 
+Oct.31 (~15mins) with PS & Wacom Mini
+
+![Eyes](31.jpg)
+

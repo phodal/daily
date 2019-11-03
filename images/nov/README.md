@@ -6,3 +6,7 @@ Nov.2 (~25mins) with PS & Mini
 
 ![Thinking](2.jpg)
 
+Nov.3 (~25mins) with PS & Mini
+
+![Cat](3.jpg)
+

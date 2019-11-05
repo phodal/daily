@@ -14,3 +14,7 @@ Nov.4 (~20mins) with pS & Mini
 
 ![Thinking](4.jpg)
 
+Nov.5 (~10mins) with PS & Mini
+
+![Yingyan](5.jpg)
+

@@ -18,3 +18,7 @@ Nov.5 (~10mins) with PS & Mini
 
 ![Yingyan](5.jpg)
 
+Nov.6 (~10mins) with PS & Mini
+
+![Dress](6.jpg)
+

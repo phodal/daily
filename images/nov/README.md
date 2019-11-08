@@ -26,3 +26,7 @@ Nov.7 (~15mins) with PS & Mini
 
 ![Mountain](7.jpg)
 
+Nov.8 (~15mins) with PS & Wacom Mini
+
+![Flowers](8.jpg)
+

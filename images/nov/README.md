@@ -30,3 +30,7 @@ Nov.8 (~15mins) with PS & Wacom Mini
 
 ![Flowers](8.jpg)
 
+Nov.9 (~20mins) with PS & Wacom Mini
+
+![Sea](9.jpg)
+

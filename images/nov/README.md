@@ -34,3 +34,7 @@ Nov.9 (~20mins) with PS & Wacom Mini
 
 ![Sea](9.jpg)
 
+Nov.10 (~20min) with PS & Wacom Mini
+
+![Shadow](10.jpg)
+

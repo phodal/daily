@@ -42,3 +42,7 @@ Nov.11 (~10mins) with PS & Wacom Mini
 
 ![Night](11.jpg)
 
+Nov.12 (~20mins) with PS & Wacom Mini
+
+![Fly](12.jpg)
+

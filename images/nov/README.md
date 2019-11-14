@@ -50,3 +50,7 @@ Nov.13 (~25mins) with PS & Wacom Mini
 
 ![Wolf](13.jpg)
 
+Nov.14 (~15mins) with PS & Wacom Mini
+
+![Way](14.jpg)
+

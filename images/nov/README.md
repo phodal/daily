@@ -58,3 +58,6 @@ Nov.15 (~10mins) with PS & Wacom Mini
 
 ![Mountains](15.jpg)
 
+Nov.16 (~15mins) with PS & Wacom Mini
+
+![Girl](16.jpg)

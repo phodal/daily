@@ -61,3 +61,8 @@ Nov.15 (~10mins) with PS & Wacom Mini
 Nov.16 (~15mins) with PS & Wacom Mini
 
 ![Girl](16.jpg)
+
+Nov.17 (~15mins) with PS & Wacom Mini
+
+![Remove](17.jpg)
+

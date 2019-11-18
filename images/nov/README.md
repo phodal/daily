@@ -66,3 +66,7 @@ Nov.17 (~15mins) with PS & Wacom Mini
 
 ![Remove](17.jpg)
 
+Nov.18 (~15mins) with PS & Wacom Mini
+
+![Beach](18.jpg)
+

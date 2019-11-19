@@ -70,3 +70,7 @@ Nov.18 (~15mins) with PS & Wacom Mini
 
 ![Beach](18.jpg)
 
+Nov.19 (~15mins) with PS & Wacom Mini
+
+![Clothes](19.jpg)
+

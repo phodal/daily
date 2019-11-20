@@ -74,3 +74,7 @@ Nov.19 (~15mins) with PS & Wacom Mini
 
 ![Clothes](19.jpg)
 
+Nov.20 (~15mins) with PS & Wacom Mini
+
+![Sitting](20.jpg)
+

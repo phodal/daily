@@ -82,3 +82,7 @@ Nov.21 (~10mins) with PS & Wacom Mini
 
 ![Ink](21.jpg)
 
+Nov.22 (~25mins) with PS & Wacom Mini
+
+![Sit](22.jpg)
+

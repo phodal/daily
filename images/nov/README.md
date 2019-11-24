@@ -90,3 +90,7 @@ Nov.23 (~10mins) with PS & Wacom Mini
 
 ![Cat](23.jpg)
 
+Nov.24 (~20mins) with PS & Wacom Mini
+
+![Clothes](24.jpg)
+

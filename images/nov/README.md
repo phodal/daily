@@ -94,3 +94,7 @@ Nov.24 (~20mins) with PS & Wacom Mini
 
 ![Clothes](24.jpg)
 
+Nov.25 (~20mins) with PS & Wacom Mini
+
+![Hope](25.jpg)
+

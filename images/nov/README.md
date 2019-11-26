@@ -98,3 +98,7 @@ Nov.25 (~20mins) with PS & Wacom Mini
 
 ![Hope](25.jpg)
 
+Nov.26 (~15mins) with PS & Wacom Mini
+
+![Trees](26.jpg)
+

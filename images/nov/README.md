@@ -102,3 +102,6 @@ Nov.26 (~15mins) with PS & Wacom Mini
 
 ![Trees](26.jpg)
 
+Nov.27 (~15mins) with PS & Wacom Mini
+
+![Path](27.jpg)

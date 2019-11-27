@@ -105,3 +105,8 @@ Nov.26 (~15mins) with PS & Wacom Mini
 Nov.27 (~15mins) with PS & Wacom Mini
 
 ![Path](27.jpg)
+
+Nov.28 (~30mins) with PS & Wacom Mini
+
+![Camera](28.jpg)
+

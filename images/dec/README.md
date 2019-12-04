@@ -9,3 +9,8 @@ Dec.2 (~10mins) with PS & Wacom Mini
 Dec.3 (~10mins) with PS & Wacom Mini
 
 ![Wind](3.jpg)
+
+Dec.4 (~15mins) with PS & Wacom Mini
+
+![Sitting](4.jpg)
+

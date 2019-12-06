@@ -18,3 +18,7 @@ Dec.5 (~10mins) with PS & Wacom Mini
 
 ![Sun](5.jpg)
 
+Dec.6 (~20mins) with PS & Wacom Mini
+
+![Lighthouse](6.jpg)
+

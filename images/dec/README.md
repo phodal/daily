@@ -26,3 +26,7 @@ Dec.7 (~10mins) with PS & Wacom Mini
 
 ![Trees](7.jpg)
 
+Dec.8 (~20mins) with PS & Wacom Mini
+
+![Walking](8.jpg)
+

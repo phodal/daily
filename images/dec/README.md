@@ -30,3 +30,7 @@ Dec.8 (~20mins) with PS & Wacom Mini
 
 ![Walking](8.jpg)
 
+Dec.9 (~15mins) with PS & Wacom Mini
+
+![Beach](9.jpg)
+

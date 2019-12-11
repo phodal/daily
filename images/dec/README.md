@@ -34,3 +34,11 @@ Dec.9 (~15mins) with PS & Wacom Mini
 
 ![Beach](9.jpg)
 
+Dec.10 (~25mins) with PS & Wacom Mini
+
+![Beach](10.jpg)
+
+Dec.11 (~15mins) with PS & Wacom Mini
+
+![Storm](11.jpg)
+

@@ -42,3 +42,7 @@ Dec.11 (~15mins) with PS & Wacom Mini
 
 ![Storm](11.jpg)
 
+Dec.12 (~15mins) with PS & Wacom Mini
+
+![Settings](12.jpg)
+

@@ -46,3 +46,7 @@ Dec.12 (~15mins) with PS & Wacom Mini
 
 ![Settings](12.jpg)
 
+Dec.13 (~20mins) with PS & Wacom Mini
+
+![Reading](13.jpg)
+

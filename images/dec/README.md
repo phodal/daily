@@ -50,3 +50,7 @@ Dec.13 (~20mins) with PS & Wacom Mini
 
 ![Reading](13.jpg)
 
+Dec.14 (~20mins) with pS & Wacom Mini
+
+![Sea](14.jpg)
+

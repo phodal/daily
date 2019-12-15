@@ -54,3 +54,7 @@ Dec.14 (~20mins) with pS & Wacom Mini
 
 ![Sea](14.jpg)
 
+Dec.15 (~20mins) with PS & Wacom Mini
+
+![Fire](15.jpg)
+

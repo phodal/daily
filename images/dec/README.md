@@ -58,3 +58,11 @@ Dec.15 (~20mins) with PS & Wacom Mini
 
 ![Fire](15.jpg)
 
+Dec.16 (~20mins) with PS & Wacom Mini
+
+![Sunshine](16.jpg)
+
+Dec.17 (~25mins) with PS & Wacom Mini
+
+![Like](17.jpg)
+

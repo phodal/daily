@@ -66,3 +66,7 @@ Dec.17 (~25mins) with PS & Wacom Mini
 
 ![Like](17.jpg)
 
+Dec.18 (~25mins) with PS & Wacom Mini
+
+![Walking](18.jpg)
+

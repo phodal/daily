@@ -70,3 +70,7 @@ Dec.18 (~25mins) with PS & Wacom Mini
 
 ![Walking](18.jpg)
 
+Dec.19 (~15mins) with PS & Wacom Mini
+
+![Fields](19.jpg)
+

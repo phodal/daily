@@ -74,3 +74,7 @@ Dec.19 (~15mins) with PS & Wacom Mini
 
 ![Fields](19.jpg)
 
+Dec.20 (~15mins) with PS & Wacom Mini
+
+![Wind](20.jpg)
+

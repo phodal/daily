@@ -78,3 +78,7 @@ Dec.20 (~15mins) with PS & Wacom Mini
 
 ![Wind](20.jpg)
 
+Dec.21 (~20mins) with PS & Wacom Mini
+
+![Reading](21.jpg)
+

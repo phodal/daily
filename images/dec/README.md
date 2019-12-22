@@ -82,3 +82,7 @@ Dec.21 (~20mins) with PS & Wacom Mini
 
 ![Reading](21.jpg)
 
+Dec.22 (~25mins) with PS & Wacom Mini
+
+![Beach](22.jpg)
+

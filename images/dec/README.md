@@ -90,3 +90,6 @@ Dec.23 (~15mins) with PS & Wacom Mini
 
 ![Fog](23.jpg)
 
+Dec.24 (~15mins) with PS & Wacom Mini
+
+![Left](24.jpg)

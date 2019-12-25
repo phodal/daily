@@ -93,3 +93,8 @@ Dec.23 (~15mins) with PS & Wacom Mini
 Dec.24 (~15mins) with PS & Wacom Mini
 
 ![Left](24.jpg)
+
+Dec.25 (~15mins) with PS & Wacom Mini
+
+![Colors](25.jpg)
+

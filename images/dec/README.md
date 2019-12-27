@@ -102,3 +102,7 @@ Dec.26 (~15mins) with PS & Wacom Mini
 
 ![Sitting](26.jpg)
 
+Dec.27 (~15mins) with PS & Wacom Mini
+
+![Colorful](27.jpg)
+

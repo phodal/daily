@@ -114,3 +114,7 @@ Dec.29 (~30mins) with PS & Wacom Mini
 
 ![Wave](29.jpg)
 
+Dec.30 (~20mins) with PS & Wacom Mini
+
+![Wave](30.jpg)
+

@@ -6,4 +6,7 @@ Jan.2 (~20mins) with PS & Huion
 
 ![Way](2.jpg)
 
+Jan.3 (~25mins) with PS & Huion
+
+![Beach](3.jpg)
 

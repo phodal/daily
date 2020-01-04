@@ -10,3 +10,7 @@ Jan.3 (~25mins) with PS & Huion
 
 ![Beach](3.jpg)
 
+Jan.4 (~20mins) with PS & Huion
+
+![Flow](4.jpg)
+

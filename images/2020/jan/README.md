@@ -18,3 +18,7 @@ Jan.5 (~20mins) with PS & Huion
 
 ![Sunshine](5.jpg)
 
+Jan.6 (~30mins) with PS & Huion
+
+![Door](6.jpg)
+

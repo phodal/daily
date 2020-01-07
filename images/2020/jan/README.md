@@ -22,3 +22,7 @@ Jan.6 (~30mins) with PS & Huion
 
 ![Door](6.jpg)
 
+Jan.7 (~25mins) with PS & Huion
+
+![House](7.jpg)
+

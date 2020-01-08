@@ -26,3 +26,7 @@ Jan.7 (~25mins) with PS & Huion
 
 ![House](7.jpg)
 
+Jan.8 (~25mins) with PS & Huion
+
+![Whale](8.jpg)
+

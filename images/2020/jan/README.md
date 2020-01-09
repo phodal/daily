@@ -30,3 +30,7 @@ Jan.8 (~25mins) with PS & Huion
 
 ![Whale](8.jpg)
 
+Jan.9 (~15mins) with PS & Huion
+
+![Ship](9.jpg)
+

@@ -1,38 +1,46 @@
 # Daily Practise for Painting
 
+## 2019
 
- - [Jan images](./images/jan/README.md)
- - [Feb images](./images/feb/README.md)
- - [Mar images](./images/mar/README.md)
- - [April images](./images/apr/README.md)
- - [May images](./images/may/README.md)
- - [June images](./images/jun/README.md)
- - [July images](./images/jul/README.md)
- - [Aug images](./images/aug/README.md)
- - [Sep images](./images/sep/README.md)
+ - [Jan images](./images/2019/jan/README.md)
+ - [Feb images](./images/2019/feb/README.md)
+ - [Mar images](./images/2019/mar/README.md)
+ - [April images](./images/2019/apr/README.md)
+ - [May images](./images/2019/may/README.md)
+ - [June images](./images/2019/jun/README.md)
+ - [July images](./images/2019/jul/README.md)
+ - [Aug images](./images/2019/aug/README.md)
+ - [Sep images](./images/2019/sep/README.md)
+ - [Oct images](./images/2019/oct/README.md)
+ - [Nov images](./images/2019/nov/README.md)
+ - [Dec images](./images/2019/dec/README.md)
 
-## Pro
+## 2020
+
+ - [Jan images](./images/2020/jan/README.md)
+
+# Pro
 
 TBC
 
 ## Good Practises
 
-![Fox](./images/jan/11.jpg)
+![Fox](./images/2019/jan/11.jpg)
 
-![BB8](./images/mar/1.jpg)
+![BB8](./images/2019/mar/1.jpg)
 
-![Tree](./images/mar/4.jpg)
+![Tree](./images/2019/mar/4.jpg)
 
-![Night](./images/mar/14.jpg)
+![Night](./images/2019/mar/14.jpg)
 
-![Shadow](./images/mar/31.jpg)
+![Shadow](./images/2019/mar/31.jpg)
 
 
 ## Hug8217
 
-![Hug](./images/mar/22.jpg)
+![Hug](./images/2019/mar/22.jpg)
 
-![Red](./images/mar/24.jpg)
+![Red](./images/2019/mar/24.jpg)
 
 ## LICENSE
 

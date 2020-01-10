@@ -34,3 +34,7 @@ Jan.9 (~15mins) with PS & Huion
 
 ![Ship](9.jpg)
 
+Jan.10 (~25mins) with PS & Huion
+
+![Cat](10.jpg)
+

@@ -38,3 +38,7 @@ Jan.10 (~25mins) with PS & Huion
 
 ![Cat](10.jpg)
 
+Jan.11 (~25mins) with iPad
+
+![Flying](11.jpg)
+

@@ -42,3 +42,7 @@ Jan.11 (~25mins) with iPad
 
 ![Flying](11.jpg)
 
+Jan.12 (~25mins) with PS & Huion
+
+![Fire](12.jpg)
+

@@ -46,3 +46,11 @@ Jan.12 (~25mins) with PS & Huion
 
 ![Fire](12.jpg)
 
+Jan.13 (~25mins) with PS & Huion
+
+![House](13.jpg)
+
+Jan.14 (~10mins) with PS & Huion
+
+![Ship](14.jpg)
+

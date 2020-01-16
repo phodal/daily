@@ -58,3 +58,7 @@ Jan.15 (~20mins) with PS & Huion
 
 ![Wall](15.jpg)
 
+Jan.16 (~25mins) with PS & Huion 
+
+![Ship](16.jpg)
+

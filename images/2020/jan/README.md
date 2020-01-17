@@ -62,3 +62,7 @@ Jan.16 (~25mins) with PS & Huion
 
 ![Ship](16.jpg)
 
+Jan.17 (~10mins) with PS & Huion
+
+![Speed](17.jpg)
+

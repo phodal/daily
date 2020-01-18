@@ -66,3 +66,7 @@ Jan.17 (~10mins) with PS & Huion
 
 ![Speed](17.jpg)
 
+Jan.18 (~20mins) with PS & Huion
+
+![Hair](18.jpg)
+

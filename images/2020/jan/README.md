@@ -70,3 +70,7 @@ Jan.18 (~20mins) with PS & Huion
 
 ![Hair](18.jpg)
 
+Jan.19 (~20mins) with PS & Huion
+
+![Dragon](19.jpg)
+

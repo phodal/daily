@@ -74,3 +74,7 @@ Jan.19 (~20mins) with PS & Huion
 
 ![Dragon](19.jpg)
 
+Jan.20 (~15mins) with PS & Huion 
+
+![Water](20.jpg)
+

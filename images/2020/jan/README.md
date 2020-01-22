@@ -82,3 +82,7 @@ Jan.21 (~10mins) with PS & Huion
 
 ![Water2](21.jpg)
 
+Jan.22 (~10mins) with pS & Huion
+
+![Fire](22.jpg)
+

@@ -90,4 +90,7 @@ Jan.23 (~10mins) with PS & Huion
 
 ![Tree](23.jpg)
 
+Jan.24 (~10mins) with PS & Huion
+
+![Tree](24.jpg)
 

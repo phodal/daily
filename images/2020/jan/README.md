@@ -94,3 +94,7 @@ Jan.24 (~10mins) with PS & Huion
 
 ![Tree](24.jpg)
 
+Jan.25 (~15mins) with PS & Huion
+
+![Cloud](25.jpg)
+

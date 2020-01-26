@@ -98,3 +98,7 @@ Jan.25 (~15mins) with PS & Huion
 
 ![Cloud](25.jpg)
 
+Jan.26 (~15mins) with PS & Huion
+
+![Cat](26.jpg)
+

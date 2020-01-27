@@ -102,3 +102,7 @@ Jan.26 (~15mins) with PS & Huion
 
 ![Cat](26.jpg)
 
+Jan.27 (~30mins) with iPad
+
+![Girls](27.jpg)
+

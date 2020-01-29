@@ -110,3 +110,7 @@ Jan.28 (~25mins) with PS & Mini
 
 ![Field](28.jpg)
 
+Jan.29 (~13mins) with PS & Mini
+
+![Beach](29.jpg)
+

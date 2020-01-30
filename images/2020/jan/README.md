@@ -114,3 +114,7 @@ Jan.29 (~13mins) with PS & Mini
 
 ![Beach](29.jpg)
 
+Jan.30 (~20mins) with PS & Mini
+
+![Raining](30.jpg)
+

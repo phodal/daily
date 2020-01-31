@@ -118,3 +118,7 @@ Jan.30 (~20mins) with PS & Mini
 
 ![Raining](30.jpg)
 
+Jan.31 (~25mins) with PS & Mini
+
+![Practise](31.jpg)
+

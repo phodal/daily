@@ -10,3 +10,7 @@ Feb.3 (~30mins) with PS & Mini
 
 ![Talking](3.jpg)
 
+Feb.4 (~25mins) with PS & Mini
+
+![Parent](4.jpg)
+

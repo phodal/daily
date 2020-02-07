@@ -22,3 +22,7 @@ Feb.6 (~15mins) with PS & Mini
 
 ![Dance](6.jpg)
 
+Feb.7 (~10mins) with PS & Mini
+
+![Walking](7.jpg)
+

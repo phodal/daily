@@ -26,3 +26,7 @@ Feb.7 (~10mins) with PS & Mini
 
 ![Walking](7.jpg)
 
+Feb.8 (~30mins) with PS & Mini
+
+![Spring](8.jpg)
+

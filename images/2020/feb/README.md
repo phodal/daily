@@ -34,3 +34,7 @@ Feb.9 (~10mins) with pS & Mini
 
 ![FreeTree](9.jpg)
 
+Feb.10 (~20mins) with PS & Mini
+
+![Beach](10.jpg)
+

@@ -42,3 +42,7 @@ Feb.11 (~10mins) with PS & Mini
 
 ![Shadow](11.jpg)
 
+Feb.12 (~20mins) with PS & Mini
+
+![Bird](12.jpg)
+

@@ -86,3 +86,7 @@ Feb.22 (~20mins) with PS & Mini
 
 ![Beach3](22.jpg)
 
+Feb.23 (~25mins) with PS & Mini
+
+![Talking](23.jpg)
+

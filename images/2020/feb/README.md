@@ -90,3 +90,7 @@ Feb.23 (~25mins) with PS & Mini
 
 ![Talking](23.jpg)
 
+Feb.24 (~20mins) with PS & Mini
+
+![Waterfall](24.jpg)
+

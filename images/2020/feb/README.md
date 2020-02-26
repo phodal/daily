@@ -98,3 +98,7 @@ Feb.25 (~25mins) with PS & Mini
 
 ![Dresses](25.jpg)
 
+Feb.26 (~25mins) with PS & Mini
+
+![Welcome](26.jpg)
+

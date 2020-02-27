@@ -102,3 +102,7 @@ Feb.26 (~25mins) with PS & Mini
 
 ![Welcome](26.jpg)
 
+Feb.27 (~10mins) with PS & Mini
+
+![Lights](27.jpg)
+

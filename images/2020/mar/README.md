@@ -18,3 +18,8 @@ Mar.5 (~10mins) with PS & Mini
 
 ![Hair](5.jpg)
 
+Mar.6 (~5mins) with PS & Mini
+
+![Girl](6.jpg)
+
+

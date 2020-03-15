@@ -54,3 +54,7 @@ Mar.14 (~30mins) with PS & Huion
 
 ![Beach](14.jpg)
 
+Mar.15 (~20mins) with PS & Huion
+
+![Hair](15.jpg)
+

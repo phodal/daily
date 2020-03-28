@@ -106,3 +106,7 @@ Mar.27 (~30mins) with PS & Huion
 
 ![Draft](27.jpg)
 
+Mar.28 (~30mins) with PS & Huion
+
+![Sit](28.jpg)
+

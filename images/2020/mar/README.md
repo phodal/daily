@@ -110,3 +110,7 @@ Mar.28 (~30mins) with PS & Huion
 
 ![Sit](28.jpg)
 
+Mar.29 (~20mins) with PS & Huion
+
+![Gooding](29.jpg)
+

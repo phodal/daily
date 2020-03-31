@@ -118,3 +118,7 @@ Mar.30 (~20mins) with PS & Huion
 
 ![Talking](30.jpg)
 
+Mar.31 (~25mins) with PS & Huion
+
+![Pen](31.jpg)
+

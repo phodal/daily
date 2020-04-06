@@ -18,3 +18,7 @@ Apr.5 (~20mins) with PS & Huion
 
 ![Girl](5.jpg)
 
+Apr.6 (~20mins_ with PS & Huion
+
+![Flower](6.jpg)
+

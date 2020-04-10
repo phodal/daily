@@ -34,3 +34,7 @@ Apr.9 (~20mins) with PS & Huion
 
 ![Create](9.jpg)
 
+Apr.10 (~20mins) with PS & Huion
+
+![Color](10.jpg)
+

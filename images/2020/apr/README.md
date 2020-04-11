@@ -38,3 +38,8 @@ Apr.10 (~20mins) with PS & Huion
 
 ![Color](10.jpg)
 
+Apr.11 (~25mins) with PS & Huion
+
+![Beach](11.jpg)
+
+

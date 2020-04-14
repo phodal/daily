@@ -50,3 +50,8 @@ Apr.13 (~15mins) with PS & Huion
 
 ![Dancing](13.jpg)
 
+Apr.14 (~25mins) with PS & Huion
+
+![Dress](14.jpg)
+
+

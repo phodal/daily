@@ -1,4 +1,4 @@
-Apr.1 (~20mins) with PS & Huion
+Apr.1 (~20mins) with PS & HuionA
 
 ![Trees](1.jpg)
 
@@ -54,4 +54,7 @@ Apr.14 (~25mins) with PS & Huion
 
 ![Dress](14.jpg)
 
+Apr.15 (~15mins) with PS & Huion
+
+![Cat](15.jpg)
 

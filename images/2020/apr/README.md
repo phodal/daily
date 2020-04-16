@@ -58,3 +58,8 @@ Apr.15 (~15mins) with PS & Huion
 
 ![Cat](15.jpg)
 
+Apr.16 (~20mins) with PS & Huion
+
+![Lines](16.jpg)
+
+

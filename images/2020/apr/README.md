@@ -70,3 +70,8 @@ Apr.18 (~15mins) with PS & Huion
 
 ![Future](18.jpg)
 
+Apr.19 (~30mins) with PS & Huion 
+
+![Reading](19.jpg)
+
+

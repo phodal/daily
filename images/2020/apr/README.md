@@ -74,4 +74,7 @@ Apr.19 (~30mins) with PS & Huion
 
 ![Reading](19.jpg)
 
+Apr.20 (~30mins) with PS & Huion
+
+![Learning](20.jpg)
 

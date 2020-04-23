@@ -86,3 +86,7 @@ Apr.22 (~25mins) with PS & Huion
 
 ![Hug](22.jpg)
 
+Apr.23 (~30mins) with PS & Huion
+
+![Writing](23.jpg)
+

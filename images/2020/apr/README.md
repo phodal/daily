@@ -90,3 +90,7 @@ Apr.23 (~30mins) with PS & Huion
 
 ![Writing](23.jpg)
 
+Apr.24 (~20mins) with PS & Huion
+
+![Bot](24.jpg)
+

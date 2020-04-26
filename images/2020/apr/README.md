@@ -98,4 +98,8 @@ Apr.25 (~20mins) with PS & Huion
 
 ![Walkking](25.jpg)
 
+Apr.26 (~30mins) with PS & Huion
+
+![Practises(26.jpg)
+
 

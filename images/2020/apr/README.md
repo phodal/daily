@@ -102,4 +102,7 @@ Apr.26 (~30mins) with PS & Huion
 
 ![Practises(26.jpg)
 
+Apr.27 (~20mins) with PS & Huion
+
+![Writing](27.jpg)
 

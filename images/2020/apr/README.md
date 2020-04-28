@@ -106,3 +106,7 @@ Apr.27 (~20mins) with PS & Huion
 
 ![Writing](27.jpg)
 
+Apr.28 (~20mins) with PS & Huion
+
+![See](28.jpg)
+

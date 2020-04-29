@@ -110,3 +110,7 @@ Apr.28 (~20mins) with PS & Huion
 
 ![See](28.jpg)
 
+Apr.29 (~15min) with pS & Huion
+
+![Sitting](29.jpg)
+

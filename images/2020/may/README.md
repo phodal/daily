@@ -10,3 +10,7 @@ May.3 (~30mins) with pS & Huion
 
 ![Hair](3.jpg)
 
+May.4 (~25mins) with PS & Huion
+
+![Washing](4.jpg)
+

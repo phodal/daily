@@ -18,3 +18,8 @@ May.5 (~15mins) with PS & Huion
 
 ![Wave](5.jpg)
 
+May.6 (~25mins) with PS & Huion
+
+![Swim](6.jpg)
+
+

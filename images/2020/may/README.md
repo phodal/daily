@@ -22,4 +22,7 @@ May.6 (~25mins) with PS & Huion
 
 ![Swim](6.jpg)
 
+May.7 (~20mins) with PS & Huion
+
+![Dance](7.jpg)
 

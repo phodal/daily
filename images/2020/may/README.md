@@ -26,3 +26,7 @@ May.7 (~20mins) with PS & Huion
 
 ![Dance](7.jpg)
 
+May.8 (~15mins) with PS & Huion
+
+![Lamp](8.jpg)
+

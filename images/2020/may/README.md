@@ -30,3 +30,6 @@ May.8 (~15mins) with PS & Huion
 
 ![Lamp](8.jpg)
 
+May.9 (~5mins) with PS & Huion
+
+![Hurt](9.jpg)

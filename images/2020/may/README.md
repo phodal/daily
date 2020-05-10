@@ -33,3 +33,8 @@ May.8 (~15mins) with PS & Huion
 May.9 (~5mins) with PS & Huion
 
 ![Hurt](9.jpg)
+
+May.10 (~10mins) with PS & Huion
+
+![Beauty](10.jpg)
+

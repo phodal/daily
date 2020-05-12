@@ -42,3 +42,7 @@ May.11 (~15mins) with PS & Huion
 
 ![Girl](11.jpg)
 
+May.12 (~15mins) with PS & Huion
+
+![Ice & Fire](12.jpg)
+

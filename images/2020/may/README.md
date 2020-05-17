@@ -62,3 +62,7 @@ May.16 (~20mins) with PS & Huion
 
 ![Shoes](16.jpg)
 
+May,.17 (~30mins) with PS & Huion
+
+![Sit](17.jpg)
+

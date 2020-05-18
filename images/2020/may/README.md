@@ -66,3 +66,7 @@ May,.17 (~30mins) with PS & Huion
 
 ![Sit](17.jpg)
 
+May.18 (~8mins) with PS & Huion
+
+![Dance](18.jpg)
+

@@ -70,3 +70,7 @@ May.18 (~8mins) with PS & Huion
 
 ![Dance](18.jpg)
 
+May.19 (~10mins) with PS & Huion
+
+![Pen](19.jpg)
+

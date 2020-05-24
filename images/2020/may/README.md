@@ -90,3 +90,7 @@ May.23 (~20mins) with PS & Huion
 
 ![Wedding](23.jpg)
 
+May.24 (~15mins) with PS & Huion
+
+![Shoes](24.jpg)
+

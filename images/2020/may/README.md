@@ -94,3 +94,7 @@ May.24 (~15mins) with PS & Huion
 
 ![Shoes](24.jpg)
 
+May.25 (~5mins) with PS & Huion
+
+![Girl](5.jpg)
+

@@ -96,5 +96,9 @@ May.24 (~15mins) with PS & Huion
 
 May.25 (~5mins) with PS & Huion
 
-![Girl](5.jpg)
+![Girl](25.jpg)
+
+May.26 (~15mins) with PS & Huion
+
+![Clothes](26.jpg)
 

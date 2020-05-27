@@ -102,3 +102,7 @@ May.26 (~15mins) with PS & Huion
 
 ![Clothes](26.jpg)
 
+May.27 (~15mins) with PS & Huion
+
+![Washing](27.jpg)
+

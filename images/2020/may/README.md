@@ -106,3 +106,7 @@ May.27 (~15mins) with PS & Huion
 
 ![Washing](27.jpg)
 
+May.28 ~(10mins) with PS & Huion
+
+![Sit](28.jpg)
+

@@ -114,3 +114,7 @@ May.29 ~(16mins) with pS & Huion
 
 ![Beach](29.jpg)
 
+May.30 ~(15mins) with PS & Huion
+
+![Walk](30.jpg)
+

@@ -118,3 +118,7 @@ May.30 ~(15mins) with PS & Huion
 
 ![Walk](30.jpg)
 
+May.31 (~20mins) with PS & Huion
+
+![Watching](31.jpg)
+

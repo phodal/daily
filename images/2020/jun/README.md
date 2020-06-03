@@ -6,3 +6,7 @@ Jun.2 (~15mins) with PS & Huion
 
 ![Sea](2.jpg)
 
+Jun.3 (~3mins) with PS & Huion
+
+![Lines](3.jpg)
+

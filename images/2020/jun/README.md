@@ -18,3 +18,7 @@ June.5 (~15mins) with PS & Huion
 
 ![Wind](5.jpg)
 
+June.6 (~10mins) with PS & Huion
+
+![Sword](6.jpg)
+

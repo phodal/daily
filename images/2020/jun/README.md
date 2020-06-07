@@ -22,3 +22,7 @@ June.6 (~10mins) with PS & Huion
 
 ![Sword](6.jpg)
 
+June.7 (~20mins) with PS & Huion
+
+![Flowsers](7.jpg)
+

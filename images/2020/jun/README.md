@@ -30,3 +30,7 @@ June.8 (~20mins) with PS & Huion
 
 ![Swim](8.jpg)
 
+June.9 (~20mins) with pS & Huion
+
+![Sun](9.jpg)
+

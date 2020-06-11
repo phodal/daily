@@ -38,3 +38,7 @@ June.10 (~10mins) with PS & Huion
 
 ![Sitting](10.jpg)
 
+June.11 (~15mins) with PS & Huion
+
+![Moon](11.jpg)
+

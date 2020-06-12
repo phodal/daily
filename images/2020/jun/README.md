@@ -42,3 +42,7 @@ June.11 (~15mins) with PS & Huion
 
 ![Moon](11.jpg)
 
+June.12 (~5mins) with PS & Huion
+
+![Clothes](12.jpg)
+

@@ -54,3 +54,7 @@ June.14 (~10mins) with PS & Huion
 
 ![Hope](14.jpg)
 
+June.15 (~15mins) with PS & Huion
+
+![Sitting](15.jpg)
+

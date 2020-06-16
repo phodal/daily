@@ -58,3 +58,7 @@ June.15 (~15mins) with PS & Huion
 
 ![Sitting](15.jpg)
 
+June.16 (~10mins) with PS & Huion
+
+![Stars](16.jpg)
+

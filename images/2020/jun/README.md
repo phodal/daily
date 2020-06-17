@@ -62,3 +62,7 @@ June.16 (~10mins) with PS & Huion
 
 ![Stars](16.jpg)
 
+June.17 (~15mins) with PS & Huion
+
+![Beach](17.jpg)
+

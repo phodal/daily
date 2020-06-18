@@ -66,3 +66,7 @@ June.17 (~15mins) with PS & Huion
 
 ![Beach](17.jpg)
 
+June.18 (~20mins) with PS & Huion
+
+![Wind](18.jpg)
+

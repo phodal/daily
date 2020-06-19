@@ -70,3 +70,8 @@ June.18 (~20mins) with PS & Huion
 
 ![Wind](18.jpg)
 
+June.19 (~15mins) with PS & Huion
+
+![Lines](19.jpg)
+
+

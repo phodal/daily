@@ -82,3 +82,7 @@ June.21 (~15mins) with PS & Huion
 
 ![Fly](21.jpg)
 
+June.22 (~15mins) with PS & Huion
+
+![Tips](22.jpg)
+

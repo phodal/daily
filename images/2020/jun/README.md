@@ -86,3 +86,7 @@ June.22 (~15mins) with PS & Huion
 
 ![Tips](22.jpg)
 
+June.23 (~15mins) with  PS & Huion
+
+![Washing](23.jpg)
+

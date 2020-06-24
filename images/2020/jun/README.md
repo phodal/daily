@@ -90,3 +90,7 @@ June.23 (~15mins) with  PS & Huion
 
 ![Washing](23.jpg)
 
+June.24 (~15mins) with PS & Huion
+
+![Shadow](24.jpg)
+

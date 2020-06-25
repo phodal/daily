@@ -94,3 +94,7 @@ June.24 (~15mins) with PS & Huion
 
 ![Shadow](24.jpg)
 
+June.25 (~10mins) with PS & Huion
+
+![Kongfu](25.jpg)
+

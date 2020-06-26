@@ -98,3 +98,7 @@ June.25 (~10mins) with PS & Huion
 
 ![Kongfu](25.jpg)
 
+June.26 (~10mins) with PS & Huion
+
+![Working](26.jpg)
+

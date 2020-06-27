@@ -102,3 +102,7 @@ June.26 (~10mins) with PS & Huion
 
 ![Working](26.jpg)
 
+June.27 (~10mins) with PS & Huion
+
+![Drink](27.jpg)
+

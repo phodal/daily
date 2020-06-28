@@ -106,3 +106,7 @@ June.27 (~10mins) with PS & Huion
 
 ![Drink](27.jpg)
 
+June.28 (~10mins) with PS & Huion
+
+![Walking](28.jpg)
+

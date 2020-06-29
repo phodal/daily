@@ -110,3 +110,7 @@ June.28 (~10mins) with PS & Huion
 
 ![Walking](28.jpg)
 
+June.29 (~10mins) with PS & Huion
+
+![Clothes](29.jpg)
+

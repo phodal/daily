@@ -114,3 +114,7 @@ June.29 (~10mins) with PS & Huion
 
 ![Clothes](29.jpg)
 
+June.30 (~10mins) with PS & Huion
+
+![Washing](30.jpg)
+

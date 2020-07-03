@@ -6,3 +6,7 @@ July.2 (~15mins) with PS & Huion
 
 ![Thining2](2.jpg)
 
+July.3 (~25mins) with PS & Huion
+
+![Siting](3.jpg)
+

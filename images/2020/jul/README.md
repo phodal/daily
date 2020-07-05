@@ -10,3 +10,12 @@ July.3 (~25mins) with PS & Huion
 
 ![Siting](3.jpg)
 
+July.4 (~5mins) with PS & Huion
+
+![Ship](4.jpg)
+
+July.5 (~20mins) with PS & Huion
+
+![Wall](5.jpg)
+
+

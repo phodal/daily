@@ -18,4 +18,7 @@ July.5 (~20mins) with PS & Huion
 
 ![Wall](5.jpg)
 
+July.6 (~15mins) with PS & Huion
+
+![Dress](6.jpg)
 

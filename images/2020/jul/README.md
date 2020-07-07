@@ -22,3 +22,7 @@ July.6 (~15mins) with PS & Huion
 
 ![Dress](6.jpg)
 
+July.7 (~10mins) with PS & Huion
+
+![Chicken](7.jpg)
+

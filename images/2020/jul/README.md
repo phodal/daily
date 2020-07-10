@@ -34,4 +34,7 @@ July.9 (~10mins) with PS & Huion
 
 ![Falling](9.jpg)
 
+July.10 (~5mins) with PS & Huion
+
+![Hug](10.jpg)
 

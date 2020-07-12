@@ -42,3 +42,7 @@ July.11 (~10mins) with PS & Huion
 
 ![Leg](11.jpg)
 
+July.12 (~10mins) with PS & Huion
+
+![Think](12.jpg)
+

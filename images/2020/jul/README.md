@@ -58,4 +58,13 @@ July.15 (~5mins) with PS & Huion
 
 ![Back2](15.jpg)
 
+July.16 (~5mins) with PS & Huion
+
+![Side](16.jpg)
+
+July.17 (~5mins) with PS & Huion
+
+![Sun](17.jpg)
+
+
 

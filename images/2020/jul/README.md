@@ -66,5 +66,8 @@ July.17 (~5mins) with PS & Huion
 
 ![Sun](17.jpg)
 
+July.18 (~5mins) with PS & Huion
+
+![Sun](18.jpg)
 
 

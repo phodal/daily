@@ -86,3 +86,7 @@ July.22 (~10min) with PS & Huion
 
 ![Sitting](22.jpg)
 
+July.23 (~10mins) with PS & Huion
+
+![Dance](23.jpg)
+

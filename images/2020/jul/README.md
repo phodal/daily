@@ -90,3 +90,7 @@ July.23 (~10mins) with PS & Huion
 
 ![Dance](23.jpg)
 
+July.24 (~15mins) with PS & Huion
+
+![Dance](24.jpg)
+

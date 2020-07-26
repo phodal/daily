@@ -97,3 +97,8 @@ July.24 (~15mins) with PS & Huion
 July.25 (~5mins) with PS & Huion
 
 ![Lights](25.jpg)
+
+July.26 (~5mins) with PS & Huion
+
+![Hug](26.jpg)
+

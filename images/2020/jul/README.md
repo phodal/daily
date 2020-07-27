@@ -102,3 +102,7 @@ July.26 (~5mins) with PS & Huion
 
 ![Hug](26.jpg)
 
+July.27 (~10mins) with PS & Huion
+
+![Fly](27.jpg)
+

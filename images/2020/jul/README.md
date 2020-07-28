@@ -106,3 +106,7 @@ July.27 (~10mins) with PS & Huion
 
 ![Fly](27.jpg)
 
+July.28 (~10mins) with pS & Huion
+
+![Ok](28.jpg)
+

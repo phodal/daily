@@ -110,3 +110,7 @@ July.28 (~10mins) with pS & Huion
 
 ![Ok](28.jpg)
 
+July.29 (~15mins) with PS & Huion
+
+![Clothes](29.jpg)
+

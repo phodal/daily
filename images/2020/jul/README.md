@@ -114,3 +114,7 @@ July.29 (~15mins) with PS & Huion
 
 ![Clothes](29.jpg)
 
+July.30 (~25mins) with PS & Huion
+
+![Thinking](30.jpg)
+

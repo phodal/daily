@@ -118,3 +118,7 @@ July.30 (~25mins) with PS & Huion
 
 ![Thinking](30.jpg)
 
+July.31 (~10mins) with PS & Huion
+
+![ML](31.jpg)
+

@@ -6,3 +6,7 @@ Aug.2 (~10mins) with PS & Wacom Mini
 
 ![Watch](2.jpg)
 
+Aug.3 (~15mins) with PS & Huion
+
+![Siting](3.jpg)
+

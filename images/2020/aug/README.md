@@ -10,3 +10,7 @@ Aug.3 (~15mins) with PS & Huion
 
 ![Siting](3.jpg)
 
+Aug.4 (~10mins) with PS & Huion
+
+![Siting](4.jpg)
+

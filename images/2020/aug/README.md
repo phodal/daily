@@ -18,3 +18,7 @@ Aug.5 (~15mins) with PS &Huion
 
 ![Grape](5.jpg)
 
+Aug.6 (~25mins) with PS & Huion
+
+![Lake](6.jpg)
+

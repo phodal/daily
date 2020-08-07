@@ -22,3 +22,7 @@ Aug.6 (~25mins) with PS & Huion
 
 ![Lake](6.jpg)
 
+Aug.7 (~30mins) with PS & Huion
+
+![Reading](7.jpg)
+

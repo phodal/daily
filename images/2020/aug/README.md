@@ -26,3 +26,7 @@ Aug.7 (~30mins) with PS & Huion
 
 ![Reading](7.jpg)
 
+Aug.8 (~30mins) with PS & Huion
+
+![Thinking](8.jpg)
+

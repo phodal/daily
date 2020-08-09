@@ -30,3 +30,6 @@ Aug.8 (~30mins) with PS & Huion
 
 ![Thinking](8.jpg)
 
+Aug.9 (~25mins) with PS & Huion
+
+![Girl](9.jpg)

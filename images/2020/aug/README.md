@@ -33,3 +33,8 @@ Aug.8 (~30mins) with PS & Huion
 Aug.9 (~25mins) with PS & Huion
 
 ![Girl](9.jpg)
+
+Aug.10 (~20mins) with PS & Huion
+
+![Swin](10.jpg)
+

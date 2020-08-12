@@ -42,3 +42,7 @@ Aug.11 (~20mins) with PS & Huion
 
 ![Back](11.jpg)
 
+Aug.12 (~20mins) with PS & Huion
+
+![Swim](12.jpg)
+

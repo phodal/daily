@@ -46,3 +46,7 @@ Aug.12 (~20mins) with PS & Huion
 
 ![Swim](12.jpg)
 
+Aug.13 (~10mins) with PS & Intuos Pro
+
+![Something](13.jpg)
+

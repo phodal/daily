@@ -54,3 +54,7 @@ Aug.14 (~20mins) with PS & Intuo Pro
 
 ![Flowers](14.jpg)
 
+Aug.15 (~20mins) with PS & Intuos Pro
+
+![Sitting](15.jpg)
+

@@ -58,3 +58,7 @@ Aug.15 (~20mins) with PS & Intuos Pro
 
 ![Sitting](15.jpg)
 
+Aug.16 (~15mins) with PS & Intuos PRO
+
+![Sit](16.jpg)
+

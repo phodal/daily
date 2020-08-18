@@ -66,3 +66,7 @@ Aug.17 (~20mins) with PS & Intuos Pro
 
 ![Styles](17.jpg)
 
+Aug.18 (~10mins) with PS & Intuos Pro
+
+![Oranges](18.jpg)
+

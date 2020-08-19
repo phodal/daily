@@ -70,3 +70,7 @@ Aug.18 (~10mins) with PS & Intuos Pro
 
 ![Oranges](18.jpg)
 
+Aug.19 (~10mins) with PS & Intuos Pro
+
+![Legs](19.jpg)
+

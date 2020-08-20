@@ -74,3 +74,7 @@ Aug.19 (~10mins) with PS & Intuos Pro
 
 ![Legs](19.jpg)
 
+Aug.20 (~15mins) with PS & Intuos Pro
+
+![Think](20.jpg)
+

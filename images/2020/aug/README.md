@@ -78,3 +78,7 @@ Aug.20 (~15mins) with PS & Intuos Pro
 
 ![Think](20.jpg)
 
+Aug.21 (~15mins) with PS & Intuos Pro
+
+![Kiss](21.jpg)
+

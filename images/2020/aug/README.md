@@ -82,3 +82,6 @@ Aug.21 (~15mins) with PS & Intuos Pro
 
 ![Kiss](21.jpg)
 
+Aug.22 (~10mins) with PS & Intuos Pro
+
+![Girls](22.jpg)

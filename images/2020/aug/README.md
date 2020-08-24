@@ -90,3 +90,7 @@ Aug.23 (~15mins) with PS & Intuos Pro
 
 ![ENjoy](23.jpg)
 
+Aug.24 (~15mins) with PS & Intuos Pro
+
+![Sleep](24.jpg)
+

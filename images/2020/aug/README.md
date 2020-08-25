@@ -94,3 +94,7 @@ Aug.24 (~15mins) with PS & Intuos Pro
 
 ![Sleep](24.jpg)
 
+Aug.25 (~15mins) with PS & Intuos Pro
+
+![Sea](25.jpg)
+

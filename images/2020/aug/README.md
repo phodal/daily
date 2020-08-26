@@ -98,3 +98,7 @@ Aug.25 (~15mins) with PS & Intuos Pro
 
 ![Sea](25.jpg)
 
+Aug.26 (~15mins) with PS & Intuos Pro
+
+![Styles](26.jpg)
+

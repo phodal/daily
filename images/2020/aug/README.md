@@ -106,3 +106,7 @@ Aug.27 (~10mins) with PS & Intuos Pro
 
 ![Smoke](27.jpg)
 
+Aug.28 (~5mins) with PS & Intuos Pro
+
+![Watch](28.jpg)
+

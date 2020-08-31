@@ -118,3 +118,7 @@ Aug.30 (~15mins) with PS & Intuos Pro
 
 ![Wave](30.jpg)
 
+Aug.31 (~15mins) with PS & Intuos Pro
+
+![Surface](31.jpg)
+

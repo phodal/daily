@@ -14,3 +14,7 @@ Sep.4 (~10mins) with PS & Huion
 
 ![Line](4.jpg)
 
+Sep.5 (~20mins) with PS & Huion
+
+![Summer](5.jpg)
+

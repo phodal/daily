@@ -18,3 +18,6 @@ Sep.5 (~20mins) with PS & Huion
 
 ![Summer](5.jpg)
 
+Sep.6 (~25mins) with PS & Huion
+
+![Summer2](6.jpg)

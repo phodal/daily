@@ -26,3 +26,7 @@ Sep.7 (~15mins) with PS & Huion
 
 ![Way](7.jpg)
 
+Sep.8 (~10mins) with PS & Huion
+
+![Ice](8.jpg)
+

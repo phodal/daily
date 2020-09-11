@@ -38,3 +38,7 @@ Sep.10 (~15mins) with PS & Intuos Pro
 
 ![Girl](10.jpg)
 
+Sep.11 (~15mins) with PS & Intuos Pro
+
+![Beach](11.jpg)
+

@@ -42,3 +42,7 @@ Sep.11 (~15mins) with PS & Intuos Pro
 
 ![Beach](11.jpg)
 
+Sep.12 (~10mins) with PS & Intuos Pro
+
+[Tree](12.jpg)
+

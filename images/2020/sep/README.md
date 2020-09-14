@@ -50,3 +50,7 @@ Sep.13 (~10mins) with pS & Intuos Pro
 
 ![Girl](13.jpg)
 
+Sep.14 (~15mins) with PS & Intuos Pro
+
+![Tree](14.jpg)
+

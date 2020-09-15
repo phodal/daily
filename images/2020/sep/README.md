@@ -54,3 +54,8 @@ Sep.14 (~15mins) with PS & Intuos Pro
 
 ![Tree](14.jpg)
 
+Sep.15 (~15mins) with PS & Intuos Pro
+
+![Sugar](15.jpg)
+
+

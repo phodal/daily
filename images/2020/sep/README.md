@@ -62,3 +62,7 @@ Sep.16 (~15mins) with PS & Intuos Pro
 
 ![cookie](16.jpg)
 
+Sep.17 (~15mins) with PS & Intuos Pro
+
+![Young](17.jpg)
+

@@ -66,3 +66,8 @@ Sep.17 (~15mins) with PS & Intuos Pro
 
 ![Young](17.jpg)
 
+Sep.18 (~25mins) with PS & Inturo Pro
+
+![Glasses](18.jpg)
+
+

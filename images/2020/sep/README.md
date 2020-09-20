@@ -75,5 +75,8 @@ Sep.19 (~15mins) with PS & Inturos Pro
 
 ![Girls](19.jpg)
 
+Sep.20 (~20mins) with PS & Intuos Pro
+
+![Practise](20.jpg)
 
 

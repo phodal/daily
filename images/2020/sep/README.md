@@ -82,3 +82,8 @@ Sep.20 (~20mins) with PS & Intuos Pro
 Sep.21 (~20mins) with PS & Intuos Pro
 
 ![Sleep](21.jpg)
+
+Sep.22 (~20mins) with PS & Intuos Pro
+
+![Girl](22.jpg)
+

@@ -87,3 +87,7 @@ Sep.22 (~20mins) with PS & Intuos Pro
 
 ![Girl](22.jpg)
 
+Sep.23 (~20mins) with PS & Intuos Pro
+
+![Walking](23.jpg)
+

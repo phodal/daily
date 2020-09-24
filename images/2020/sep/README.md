@@ -91,3 +91,8 @@ Sep.23 (~20mins) with PS & Intuos Pro
 
 ![Walking](23.jpg)
 
+Sep.24 (~15mins) with PS & Intuos Pro
+
+![Cry](24.jpg)
+
+

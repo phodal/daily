@@ -95,4 +95,7 @@ Sep.24 (~15mins) with PS & Intuos Pro
 
 ![Cry](24.jpg)
 
+Sep.25 (~10mins) with PS & Intuos Pro
+
+![Sleep](25.jpg)
 

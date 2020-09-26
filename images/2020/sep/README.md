@@ -99,3 +99,7 @@ Sep.25 (~10mins) with PS & Intuos Pro
 
 ![Sleep](25.jpg)
 
+Sep.26 (~10mins) with PS & Intuos Pro
+
+![Rain](26.jpg)
+

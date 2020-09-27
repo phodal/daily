@@ -103,3 +103,8 @@ Sep.26 (~10mins) with PS & Intuos Pro
 
 ![Rain](26.jpg)
 
+Sep.27 (~10mins) with PS & Intuos Pro
+
+![Back](27.jpg)
+
+

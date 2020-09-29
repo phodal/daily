@@ -111,3 +111,7 @@ Sep.28 (~10mins) with PS & Intuos Pro
 
 ![Styles](28.jpg)
 
+Sep.29 (~10mins) with PS & Intuos Pro
+
+![Sit](29.jpg)
+

@@ -115,3 +115,7 @@ Sep.29 (~10mins) with PS & Intuos Pro
 
 ![Sit](29.jpg)
 
+Sep.30 (~10mins) with PS & Intuos Pro
+
+![Girl](30.jpg)
+

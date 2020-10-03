@@ -6,3 +6,7 @@ Oct.2 (~5mins) with Photoshop & Intuos Pro
 
 ![Style](2.jpg)
 
+Oct.3 (~5mins) with Photoshop & Intuos Pro
+
+![Style2](3.jpg)
+

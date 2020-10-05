@@ -14,3 +14,7 @@ Oct.4 (~5mins) with Photoshop & Intuos Pro
 
 ![LEAF](4.jpg)
 
+Oct.5 (~10mins) with PS & Intuos Pro
+
+![Style3](5.jpg)
+

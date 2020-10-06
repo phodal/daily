@@ -18,3 +18,7 @@ Oct.5 (~10mins) with PS & Intuos Pro
 
 ![Style3](5.jpg)
 
+Oct.6 (~15mins) with PS & Intuos Pro
+
+![Shadow](6.jpg)
+

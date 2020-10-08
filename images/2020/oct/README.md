@@ -26,3 +26,7 @@ Oct.7 (~20mins) with PS & Intuos Pro
 
 ![Valley](7.jpg)
 
+Oct.8 (~10mins) with PS & Intuos Pro
+
+![Cat](8.jpg)
+

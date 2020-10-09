@@ -30,3 +30,7 @@ Oct.8 (~10mins) with PS & Intuos Pro
 
 ![Cat](8.jpg)
 
+Oct.9 (~15mins) with PS & Intuos Pro
+
+![Sand](9.jpg)
+

@@ -34,3 +34,8 @@ Oct.9 (~15mins) with PS & Intuos Pro
 
 ![Sand](9.jpg)
 
+Oct.10 (~15mins) with pS & Intuos Pro
+
+![Lamp](10.jpg)
+
+

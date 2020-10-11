@@ -38,4 +38,7 @@ Oct.10 (~15mins) with pS & Intuos Pro
 
 ![Lamp](10.jpg)
 
+Oct.11 (~20mins) with PS & Intuos Pro
+
+![Dance](11.jpg)
 

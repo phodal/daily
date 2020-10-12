@@ -42,3 +42,7 @@ Oct.11 (~20mins) with PS & Intuos Pro
 
 ![Dance](11.jpg)
 
+Oct.12 (~10mins) with PS & Intuos pro
+
+![Fight](12.jpg)
+

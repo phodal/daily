@@ -46,3 +46,7 @@ Oct.12 (~10mins) with PS & Intuos pro
 
 ![Fight](12.jpg)
 
+Oct.13 (~25mins) with pS & Intuos Pro
+
+![View](13.jpg)
+

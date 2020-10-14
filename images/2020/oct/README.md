@@ -50,3 +50,7 @@ Oct.13 (~25mins) with pS & Intuos Pro
 
 ![View](13.jpg)
 
+Oct.14 (~20mins) with PS & Intuos Pro
+
+![Sitting](14.jpg)
+

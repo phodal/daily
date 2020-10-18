@@ -66,3 +66,7 @@ Oct.17 (~15mins) with PS & Intuos Pro
 
 ![Watch](17.jpg)
 
+Oct.18 (~10mins) with PS & Intuos pro
+
+![Lines](18.jpg)
+

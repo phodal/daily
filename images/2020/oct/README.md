@@ -70,3 +70,7 @@ Oct.18 (~10mins) with PS & Intuos pro
 
 ![Lines](18.jpg)
 
+Oct.19 (~5mins) with PS & Intuos Pro
+
+![Something](19.jpg)
+

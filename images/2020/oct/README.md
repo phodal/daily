@@ -74,3 +74,7 @@ Oct.19 (~5mins) with PS & Intuos Pro
 
 ![Something](19.jpg)
 
+Oct.20 (~5mins) with PS & Intuos Pro
+
+![Bear](20.jpg)
+

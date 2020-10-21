@@ -78,3 +78,7 @@ Oct.20 (~5mins) with PS & Intuos Pro
 
 ![Bear](20.jpg)
 
+Oct.21 (~5mins) with PS & Intuos Pro
+
+![Girl](21.jpg)
+

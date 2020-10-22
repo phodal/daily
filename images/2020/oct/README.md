@@ -82,3 +82,7 @@ Oct.21 (~5mins) with PS & Intuos Pro
 
 ![Girl](21.jpg)
 
+Oct.22 (~15mins) with PS & Intuos Pro
+
+![Cloud](22.jpg)
+

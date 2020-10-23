@@ -86,3 +86,7 @@ Oct.22 (~15mins) with PS & Intuos Pro
 
 ![Cloud](22.jpg)
 
+Oct.23 (~10mins) with PS & Intuos Pro
+
+![Bar](23.jpg)
+

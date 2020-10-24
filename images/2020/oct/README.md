@@ -90,3 +90,7 @@ Oct.23 (~10mins) with PS & Intuos Pro
 
 ![Bar](23.jpg)
 
+Oct.24 (~20mins) with PS & Intuos Pro
+
+![Jump](24.jpg)
+

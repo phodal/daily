@@ -102,3 +102,7 @@ Oct.26 (~10mins) with PS & Intuos Pro
 
 ![Fight](26.jpg)
 
+Oct.27 (~15mins) with PS & Intuos Pro
+
+![Girl](27.jpg)
+

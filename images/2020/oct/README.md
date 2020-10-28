@@ -106,3 +106,7 @@ Oct.27 (~15mins) with PS & Intuos Pro
 
 ![Girl](27.jpg)
 
+Oct.28 (~10mins) with PS & Intuos Pro
+
+![Line](28.jpg)
+

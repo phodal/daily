@@ -110,3 +110,7 @@ Oct.28 (~10mins) with PS & Intuos Pro
 
 ![Line](28.jpg)
 
+Oct.29 (~10mins) with PS & Intuos Pro
+
+![Fight](29.jpg)
+

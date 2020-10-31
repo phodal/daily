@@ -118,3 +118,7 @@ Oct.30 (~10mins) with PS & Intuos Pro
 
 ![Lines](30.jpg)
 
+Oct.31 (~10mins) with PS & Intuos Pro
+
+![Back](31.jpg)
+

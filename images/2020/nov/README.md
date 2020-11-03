@@ -6,4 +6,7 @@ Nov.2 (~15mins) with Intuos Pro
 
 ![SHOE](2.jpg)
 
+Nov.3 (~10mins) with Intuos Pro
+
+![Cat](3.jpg)
 

@@ -14,3 +14,7 @@ Nov.4 (~15mins) with Intuos Pro
 
 ![Horse](4.jpg)
 
+Nov.5 (~15mins) with Intuos Pro
+
+![Style](5.jpg)
+

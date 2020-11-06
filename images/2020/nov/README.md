@@ -18,3 +18,7 @@ Nov.5 (~15mins) with Intuos Pro
 
 ![Style](5.jpg)
 
+Nov.6 (~10mins) with Intuos Pro
+
+![Sit](6.jpg)
+

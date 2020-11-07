@@ -22,3 +22,7 @@ Nov.6 (~10mins) with Intuos Pro
 
 ![Sit](6.jpg)
 
+Nov.7 (~10mins) with Intuos Pro
+
+![Lay](7.jpg)
+

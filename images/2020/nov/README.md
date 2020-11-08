@@ -26,3 +26,7 @@ Nov.7 (~10mins) with Intuos Pro
 
 ![Lay](7.jpg)
 
+Nov.8 (~20mins) with Intuos Pro
+
+![Clothes](8.jpg)
+

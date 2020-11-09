@@ -30,3 +30,7 @@ Nov.8 (~20mins) with Intuos Pro
 
 ![Clothes](8.jpg)
 
+Nov.9 (~10mins) with Intuos Pro
+
+![Hair](9.jpg)
+

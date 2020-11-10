@@ -34,3 +34,7 @@ Nov.9 (~10mins) with Intuos Pro
 
 ![Hair](9.jpg)
 
+Nov.10 (~10mins) with Intuos Pro
+
+![Walking](10.jpg)
+

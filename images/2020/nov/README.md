@@ -42,3 +42,7 @@ Nov.11 (~15mins) with Intuos Pro
 
 ![Led](11.jpg)
 
+Nov.12 (~15mins) with Intuos Pro
+
+![Shoes](12.jpg)
+

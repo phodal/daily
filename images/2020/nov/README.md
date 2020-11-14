@@ -50,3 +50,7 @@ Nov.13 (~10mins) with Intuos Pro
 
 ![Cat](13.jpg)
 
+Nov.14 (~20mins) with Intuos Pro
+
+![Hat](14.jpg)
+

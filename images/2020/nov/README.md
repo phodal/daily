@@ -54,3 +54,7 @@ Nov.14 (~20mins) with Intuos Pro
 
 ![Hat](14.jpg)
 
+Nov.15 (~25mins) with Intuos Pro
+
+![Colors](15.jpg)
+

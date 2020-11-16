@@ -58,3 +58,7 @@ Nov.15 (~25mins) with Intuos Pro
 
 ![Colors](15.jpg)
 
+Nov.16 (~15mins) with Intuos Pro
+
+![Lights](16.jpg)
+

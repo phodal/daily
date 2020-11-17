@@ -62,3 +62,7 @@ Nov.16 (~15mins) with Intuos Pro
 
 ![Lights](16.jpg)
 
+Nov.17 (~10mins) with Intuos Pro
+
+![Hnad](17.jpg)
+

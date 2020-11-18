@@ -66,3 +66,7 @@ Nov.17 (~10mins) with Intuos Pro
 
 ![Hnad](17.jpg)
 
+Nov.18 (~10mins) with Intuos Pro
+
+![Cat](18.jpg)
+

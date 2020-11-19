@@ -70,3 +70,7 @@ Nov.18 (~10mins) with Intuos Pro
 
 ![Cat](18.jpg)
 
+Nov.19 (~15mins) with Intuos Pro
+
+![Sea](19.jpg)
+

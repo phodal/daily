@@ -78,3 +78,7 @@ Nov.20 (~10mins) with Intuos Pro
 
 ![DotCat](20.jpg)
 
+Nov.21 (~10mins) with Intuos Pro
+
+![Folwer](21.jpg)
+

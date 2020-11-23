@@ -86,3 +86,7 @@ Nov.22 (~15mins) with Intuos Pro
 
 ![Watch](22.jpg)
 
+Nov.23 (~15mins) with Intuos Pro
+
+![Style](23.jpg)
+

@@ -90,3 +90,7 @@ Nov.23 (~15mins) with Intuos Pro
 
 ![Style](23.jpg)
 
+Nov.24 (~15mins) with Intuos Pro
+
+![Background](24.jpg)
+

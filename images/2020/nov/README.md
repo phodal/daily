@@ -94,3 +94,7 @@ Nov.24 (~15mins) with Intuos Pro
 
 ![Background](24.jpg)
 
+Nov.25 (~15mins) with Intuos Pro
+
+![Dance](25.jpg)
+

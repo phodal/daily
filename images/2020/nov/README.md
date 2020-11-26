@@ -98,3 +98,7 @@ Nov.25 (~15mins) with Intuos Pro
 
 ![Dance](25.jpg)
 
+Nov.26 (~15mins) with Intuos Pro
+
+![Crash](26.jpg)
+

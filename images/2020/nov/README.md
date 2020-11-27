@@ -102,3 +102,7 @@ Nov.26 (~15mins) with Intuos Pro
 
 ![Crash](26.jpg)
 
+Nov.27 (~10mins) with Intuos Pro
+
+![Sleep](27.jpg)
+

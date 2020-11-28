@@ -106,3 +106,7 @@ Nov.27 (~10mins) with Intuos Pro
 
 ![Sleep](27.jpg)
 
+Nov.28 (~15mins) with Intuos Pro
+
+![Clothes](28.jpg)
+

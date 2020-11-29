@@ -110,3 +110,7 @@ Nov.28 (~15mins) with Intuos Pro
 
 ![Clothes](28.jpg)
 
+Nov.29 (~15mins) with Intuos Pro
+
+![Orange](27.jpg)
+

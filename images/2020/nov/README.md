@@ -112,5 +112,9 @@ Nov.28 (~15mins) with Intuos Pro
 
 Nov.29 (~15mins) with Intuos Pro
 
-![Orange](27.jpg)
+![Orange](29.jpg)
+
+Nov.30 (~15mins) with Intuos Pro
+
+![Cherry](30.jpg)
 

@@ -6,3 +6,7 @@ Dec.2 (~20mins) with Intuos Pro
 
 ![Beef](2.jpg)
 
+Dec.3 (~15mins) with Intuos Pro
+
+![Girl](3.jpg)
+

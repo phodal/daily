@@ -14,3 +14,7 @@ Dec.4 (~15mins) with Intuos Pro
 
 ![Clothes](4.jpg)
 
+Dec.5 (~10mins) with Intuos Pro
+
+![Room](5.jpg)
+

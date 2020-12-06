@@ -18,3 +18,7 @@ Dec.5 (~10mins) with Intuos Pro
 
 ![Room](5.jpg)
 
+Dec.6 (~15mins) with Intuos Pro
+
+![Frust](6.jpg)
+

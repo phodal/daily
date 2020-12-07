@@ -22,3 +22,7 @@ Dec.6 (~15mins) with Intuos Pro
 
 ![Frust](6.jpg)
 
+Dec.7 (~15mins) with Intuos Pro
+
+![bad](7.jpg)
+

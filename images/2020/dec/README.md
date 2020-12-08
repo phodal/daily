@@ -26,3 +26,7 @@ Dec.7 (~15mins) with Intuos Pro
 
 ![bad](7.jpg)
 
+Dec.8 (~20mins) with Intuos pro
+
+![Coca](8.jpg)
+

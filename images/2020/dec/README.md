@@ -30,3 +30,7 @@ Dec.8 (~20mins) with Intuos pro
 
 ![Coca](8.jpg)
 
+Dec.9 (~15mins) with Intuos Pro
+
+![Watermelon](9.jpg)
+

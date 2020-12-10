@@ -34,3 +34,7 @@ Dec.9 (~15mins) with Intuos Pro
 
 ![Watermelon](9.jpg)
 
+Dec.10 (~10mins) with Intuos Pro
+
+![Girl](10.jpg)
+

@@ -38,3 +38,7 @@ Dec.10 (~10mins) with Intuos Pro
 
 ![Girl](10.jpg)
 
+Dec.11 (~10mins) with Intuos Pro
+
+![Milk](11.jpg)
+

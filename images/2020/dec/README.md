@@ -46,4 +46,8 @@ Dec.12 (~15mins) with Intuos Pro
 
 ![Orange](12.jpg)
 
+Dec.13 (~20mins) with Intuos Pro
+
+![Lemon](13.jpg)
+
 

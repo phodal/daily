@@ -50,4 +50,7 @@ Dec.13 (~20mins) with Intuos Pro
 
 ![Lemon](13.jpg)
 
+Dec.14 (~15mins) with Intuos Pro
+
+![Flowers](14.jpg)
 

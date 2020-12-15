@@ -54,3 +54,7 @@ Dec.14 (~15mins) with Intuos Pro
 
 ![Flowers](14.jpg)
 
+Dec.15 (~15mins) with Intuos Pro
+
+![Sky](15.jpg)
+

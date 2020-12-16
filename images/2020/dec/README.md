@@ -58,3 +58,7 @@ Dec.15 (~15mins) with Intuos Pro
 
 ![Sky](15.jpg)
 
+Dec.16 (~15mins) with Huion
+
+![Dress](16.jpg)
+

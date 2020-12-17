@@ -62,3 +62,7 @@ Dec.16 (~15mins) with Huion
 
 ![Dress](16.jpg)
 
+Dec.17 (~15mins) with Huion
+
+![Sky](17.jpg)
+

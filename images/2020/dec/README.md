@@ -66,3 +66,7 @@ Dec.17 (~15mins) with Huion
 
 ![Sky](17.jpg)
 
+Dec.18 (~5mins) with Huion
+
+![Girl](18.jpg)
+

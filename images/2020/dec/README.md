@@ -70,3 +70,7 @@ Dec.18 (~5mins) with Huion
 
 ![Girl](18.jpg)
 
+Dec.19 (~10mins) with Intuos Pro
+
+![Dress](19.jpg)
+

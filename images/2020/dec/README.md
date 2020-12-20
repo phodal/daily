@@ -74,3 +74,7 @@ Dec.19 (~10mins) with Intuos Pro
 
 ![Dress](19.jpg)
 
+Dec.20 (~10mins) with Huion
+
+![Style](20.jpg)
+

@@ -78,3 +78,8 @@ Dec.20 (~10mins) with Huion
 
 ![Style](20.jpg)
 
+Dec.21 (~15mins) with Intuos Pro
+
+![Bomp](21.jpg)
+
+

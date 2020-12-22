@@ -82,4 +82,7 @@ Dec.21 (~15mins) with Intuos Pro
 
 ![Bomp](21.jpg)
 
+Dec.22 (~15mins) with Intuos Pro
+
+![Wave](22.jpg)
 

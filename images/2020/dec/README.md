@@ -78,11 +78,16 @@ Dec.20 (~10mins) with Huion
 
 ![Style](20.jpg)
 
-Dec.21 (~15mins) with Intuos Pro
+Dec.21 (~15mins) with Huion
 
 ![Bomp](21.jpg)
 
-Dec.22 (~15mins) with Intuos Pro
+Dec.22 (~15mins) with Huion
 
 ![Wave](22.jpg)
+
+Dec.23 (~15mins) with Huion
+
+![Dress](23.jpg)
+
 

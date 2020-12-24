@@ -90,4 +90,7 @@ Dec.23 (~15mins) with Huion
 
 ![Dress](23.jpg)
 
+Dec.24 (~15mins) with Huion
+
+![Lamp](24.jpg)
 

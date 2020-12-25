@@ -94,3 +94,7 @@ Dec.24 (~15mins) with Huion
 
 ![Lamp](24.jpg)
 
+Dec.25 (~15mins) with Huion
+
+![Girl](25.jpg)
+

@@ -106,3 +106,7 @@ Dec.27 (~15mins) with Huion
 
 ![Girl](27.jpg)
 
+Dec.28 (~15mins) with Huion
+
+![Type](28.jpg)
+

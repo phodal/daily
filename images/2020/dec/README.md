@@ -110,3 +110,7 @@ Dec.28 (~15mins) with Huion
 
 ![Type](28.jpg)
 
+Dec.29 (~15mins) with Huion
+
+![Cat](29.jpg)
+

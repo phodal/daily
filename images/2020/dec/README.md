@@ -114,3 +114,7 @@ Dec.29 (~15mins) with Huion
 
 ![Cat](29.jpg)
 
+Dec.30 (~10mins) with Intuos Mini
+
+![Back](30.jpg)
+

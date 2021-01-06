@@ -18,3 +18,7 @@ Jan.5 (~15mins) with Huion
 
 ![Head](5.jpg)
 
+Jan.6 (~15mins) with Huion
+
+![Lamp](6.jpg)
+

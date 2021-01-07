@@ -22,3 +22,7 @@ Jan.6 (~15mins) with Huion
 
 ![Lamp](6.jpg)
 
+Jan.7 (~10mins) with Huion
+
+![Eggplant](7.jpg)
+

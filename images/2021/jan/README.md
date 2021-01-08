@@ -26,3 +26,7 @@ Jan.7 (~10mins) with Huion
 
 ![Eggplant](7.jpg)
 
+Jan.8 (~15mins) with Huion
+
+![Blance](8.jpg)
+

@@ -42,3 +42,7 @@ Jan.11 (~15mins) with Huion
 
 ![Mountain](11.jpg)
 
+Jan.12 (~10mins) with Huion
+
+![Dog](12.jpg)
+

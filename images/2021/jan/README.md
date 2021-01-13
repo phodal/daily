@@ -46,3 +46,7 @@ Jan.12 (~10mins) with Huion
 
 ![Dog](12.jpg)
 
+Jan.13 (~15mins) with Huion
+
+![Footer](13.jpg)
+

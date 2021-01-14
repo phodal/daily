@@ -50,3 +50,7 @@ Jan.13 (~15mins) with Huion
 
 ![Footer](13.jpg)
 
+Jan.14 (~10mins) with Huion
+
+![Hand](14.jpg)
+

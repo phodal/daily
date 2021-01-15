@@ -54,3 +54,7 @@ Jan.14 (~10mins) with Huion
 
 ![Hand](14.jpg)
 
+Jan.15 (~10mins) with Huion
+
+![Question](15.jpg)
+

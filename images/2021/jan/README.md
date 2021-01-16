@@ -58,3 +58,7 @@ Jan.15 (~10mins) with Huion
 
 ![Question](15.jpg)
 
+Jan.16 (~10mins) with Huion
+
+![Dog](16.jpg)
+

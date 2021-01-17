@@ -62,3 +62,7 @@ Jan.16 (~10mins) with Huion
 
 ![Dog](16.jpg)
 
+Jan.17 (~10mins) with Huion
+
+![Styl](17.jpg)
+

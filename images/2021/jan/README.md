@@ -66,3 +66,7 @@ Jan.17 (~10mins) with Huion
 
 ![Styl](17.jpg)
 
+Jan.18 (~20mins) with Huion
+
+![Girl](18.jpg)
+

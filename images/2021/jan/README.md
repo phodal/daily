@@ -70,3 +70,8 @@ Jan.18 (~20mins) with Huion
 
 ![Girl](18.jpg)
 
+Jan.19 (~15mins) with Huion
+
+![Cat](19.jpg)
+
+

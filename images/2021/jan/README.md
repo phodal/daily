@@ -74,4 +74,7 @@ Jan.19 (~15mins) with Huion
 
 ![Cat](19.jpg)
 
+Jan.20 (~15mins) with Huion
+
+![Night](20.jpg)
 

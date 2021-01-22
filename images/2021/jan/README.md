@@ -82,3 +82,7 @@ Jan.21 (~15mins) with Huion
 
 ![Mountain](21.jpg)
 
+Jan.22 (~10mins) with Mini
+
+![Kiss](22.jpg)
+

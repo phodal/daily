@@ -90,3 +90,7 @@ Jan.23 (~10mins) with Mini
 
 ![Tool](23.jpg)
 
+Jan.24 (~10mins) with Mini
+
+![Style](24.jpg)
+

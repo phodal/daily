@@ -94,3 +94,7 @@ Jan.24 (~10mins) with Mini
 
 ![Style](24.jpg)
 
+Jan.25 (~10mins) with Huion
+
+![Simple](25.jpg)
+

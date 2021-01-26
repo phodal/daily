@@ -98,3 +98,7 @@ Jan.25 (~10mins) with Huion
 
 ![Simple](25.jpg)
 
+Jan.26 (~5mins) with Huion
+
+![Dress](26.jpg)
+

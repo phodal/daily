@@ -102,3 +102,7 @@ Jan.26 (~5mins) with Huion
 
 ![Dress](26.jpg)
 
+Jan.27 (~10mins) with Intuos
+
+![Thinking](27.jpg)
+

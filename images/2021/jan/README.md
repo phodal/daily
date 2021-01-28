@@ -106,3 +106,7 @@ Jan.27 (~10mins) with Intuos
 
 ![Thinking](27.jpg)
 
+Jan.28 (~10mins) with Intuos
+
+![Hat](28.jpg)
+

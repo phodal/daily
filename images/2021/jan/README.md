@@ -114,3 +114,7 @@ Jan.29 (~10mins) with Intuos
 
 ![Something](29.jpg)
 
+Jan.30 (~5mins) with Intuos
+
+![Girl](30.jpg)
+

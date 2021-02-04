@@ -10,3 +10,7 @@ Feb.3 (~10mins) with Intuos Pro
 
 ![Side](3.jpg)
 
+Feb.4 (~20mins) with Intuos Pro
+
+![Path](4.jpg)
+

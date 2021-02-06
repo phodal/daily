@@ -18,3 +18,7 @@ Feb.5 (~10mins) with Pro
 
 ![Style](5.jpg)
 
+Feb.6 (~10mins) with Pro
+
+![Colors](6.jpg)
+

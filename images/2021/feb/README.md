@@ -22,3 +22,7 @@ Feb.6 (~10mins) with Pro
 
 ![Colors](6.jpg)
 
+Feb.7 (~15mins) with Pro
+
+![Shell](7.jpg)
+

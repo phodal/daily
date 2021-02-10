@@ -34,3 +34,7 @@ Feb.9 (~15mins) with Pro
 
 ![Fish](9.jpg)
 
+Feb.10 (~10mins) with Pro
+
+![Hand](10.jpg)
+

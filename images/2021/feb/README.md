@@ -38,3 +38,7 @@ Feb.10 (~10mins) with Pro
 
 ![Hand](10.jpg)
 
+Feb.11 (~10mins) with Pro
+
+![Shell 2](11.jpg)
+

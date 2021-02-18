@@ -66,3 +66,7 @@ Feb.17 (~5mins) with Pro
 
 ![Ducky](17.jpg)
 
+Feb.18 (~15mins) with Pro
+
+![Bird 2](18.jpg)
+

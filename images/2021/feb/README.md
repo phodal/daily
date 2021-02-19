@@ -70,3 +70,7 @@ Feb.18 (~15mins) with Pro
 
 ![Bird 2](18.jpg)
 
+Feb.19 (~10mins) with Pro
+
+![Walking](19.jpg)
+

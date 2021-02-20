@@ -74,3 +74,7 @@ Feb.19 (~10mins) with Pro
 
 ![Walking](19.jpg)
 
+Feb.20 (~10mins) with Pro
+
+![Shadow](20.jpg)
+

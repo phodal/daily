@@ -90,3 +90,7 @@ Feb.23 (~10mins) with Pro
 
 ![Animal](23.jpg)
 
+Feb.24 (~15mins) with Pro
+
+![Shell](24.jpg)
+

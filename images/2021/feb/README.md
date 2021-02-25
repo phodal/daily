@@ -94,3 +94,7 @@ Feb.24 (~15mins) with Pro
 
 ![Shell](24.jpg)
 
+Feb.25 (~10mins) with Pro
+
+![Hand](25.jpg)
+

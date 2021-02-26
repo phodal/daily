@@ -98,3 +98,7 @@ Feb.25 (~10mins) with Pro
 
 ![Hand](25.jpg)
 
+Feb.26 (~10mins) with Pro
+
+![Flower](26.jpg)
+

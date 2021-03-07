@@ -22,3 +22,7 @@ Mar.6 (~10mins) with Huion
 
 ![Girl](6.jpg)
 
+Mar.7 (~15mins) with Huion
+
+![Swiming](7.jpg)
+

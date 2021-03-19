@@ -70,3 +70,7 @@ Mar.18 (~10mins) with iPad
 
 ![Fisher](18.jpg)
 
+Mar.19 (~5mins) with iPad
+
+![Sit](19.jpg)
+

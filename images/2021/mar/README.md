@@ -90,3 +90,7 @@ Mar.23 (~10mins) with Huion
 
 ![Lines](23.jpg)
 
+Mar.24 (~25mins) with Huion
+
+![lipstick](24.jpg)
+

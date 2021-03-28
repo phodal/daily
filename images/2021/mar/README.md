@@ -106,3 +106,7 @@ Mar.27 (~15mins) with Huion
 
 ![Autumn](27.jpg)
 
+Mar.28 (~10mins) with iPad
+
+![Practise](28.jpg)
+

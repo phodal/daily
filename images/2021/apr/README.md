@@ -26,3 +26,7 @@ Apr.with iPad
 
 ![Orange](7.jpg)
 
+Apr.with iPad
+
+![Beach](8.jpg)
+

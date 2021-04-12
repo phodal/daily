@@ -42,3 +42,7 @@ Apr.11 with iPad
 
 ![Coffee](11.jpg)
 
+Apr.12 with iPad
+
+![Style](12.jpg)
+

@@ -62,3 +62,7 @@ Apr.16 with iPad
 
 ![Style 2](16.jpg)
 
+Apr.17 with iPad
+
+![Fashion](17.jpg)
+

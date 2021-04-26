@@ -98,3 +98,7 @@ Apr.25 with iPad
 
 ![Mountain](25.jpg)
 
+Apr.26 with iPad
+
+![Personal](26.jpg)
+
